@@ -52,6 +52,16 @@
       "topic": "예술"
     },
     {
+      "no": "240",
+      "en": "There is no guarantee that you will get your first choice.",
+      "topic": "기타"
+    },
+    {
+      "no": "242",
+      "en": "What should I do in order to open a bank account?",
+      "topic": "경제"
+    },
+    {
       "no": "243",
       "en": "Only those who are over 18 years of age are eligible to open a bank account in our bank.",
       "topic": "경제"
@@ -62,14 +72,139 @@
       "topic": "기타"
     },
     {
+      "no": "246",
+      "en": "This brought about the tremendous change in the environment, with the sea level rising and creeping steadily inland.",
+      "topic": "과학"
+    },
+    {
+      "no": "248",
+      "en": "At the end of the ice age there would have been enormous changes in animal and plant life.",
+      "topic": "과학"
+    },
+    {
       "no": "249",
       "en": "There are various approaches for plagiarism across different university departments.",
       "topic": "학교"
     },
     {
+      "no": "250",
+      "en": "Psychology relies on scientific methods to investigate questions and arrive at conclusions.",
+      "topic": "과학"
+    },
+    {
+      "no": "251",
+      "en": "Psychologists use a range of techniques to study the human mind and behavior.",
+      "topic": "과학"
+    },
+    {
+      "no": "252",
+      "en": "There's been far more research on conventional crime and far more data is available.",
+      "topic": "사회"
+    },
+    {
+      "no": "253",
+      "en": "There are several reasons for this lack of interest in corporate crime, compared with other types of crime.",
+      "topic": "사회"
+    },
+    {
+      "no": "254",
+      "en": "When we look at the effects of corporate crime we may find it's very difficult to assess the costs.",
+      "topic": "사회"
+    },
+    {
+      "no": "255",
+      "en": "Let's look at the economic costs first.",
+      "topic": "경제"
+    },
+    {
+      "no": "257",
+      "en": "Export trade finance companies or agencies also provide information and support for export working capital.",
+      "topic": "경제"
+    },
+    {
+      "no": "258",
+      "en": "Trade financing for the local market or the international market for exports begins from the first stop at the banks.",
+      "topic": "경제"
+    },
+    {
+      "no": "259",
+      "en": "It's unusual that the university should offer only one anthropology course.",
+      "topic": "학교"
+    },
+    {
+      "no": "260",
+      "en": "Charles used to ride the bus to town, but now his roommate drives him in.",
+      "topic": "기타"
+    },
+    {
+      "no": "261",
+      "en": "Professor Clayton donated some of her books to the college library.",
+      "topic": "학교"
+    },
+    {
+      "no": "262",
+      "en": "Jonathan is seldom on time for anything.",
+      "topic": "기타"
+    },
+    {
       "no": "263",
       "en": "Care needs to be taken for vulnerable groups in times of infection.",
       "topic": "건강"
+    },
+    {
+      "no": "264",
+      "en": "Make sure you correctly cite all your sources.",
+      "topic": "학교"
+    },
+    {
+      "no": "265",
+      "en": "There are hundreds of clubs and societies to choose from.",
+      "topic": "학교"
+    },
+    {
+      "no": "266",
+      "en": "The Drama Society is now auditioning for parts in the student play.",
+      "topic": "예술"
+    },
+    {
+      "no": "267",
+      "en": "There is a position available for a junior lecturer in media studies.",
+      "topic": "학교"
+    },
+    {
+      "no": "268",
+      "en": "There will be a significant rise in tuition fees starting next year.",
+      "topic": "학교"
+    },
+    {
+      "no": "269",
+      "en": "You will be informed of the results by e-mail.",
+      "topic": "기타"
+    },
+    {
+      "no": "270",
+      "en": "Please have copies of your seminar papers in the library a week in advance.",
+      "topic": "학교"
+    },
+    {
+      "no": "271",
+      "en": "Most students are not eligible to claim housing benefits.",
+      "topic": "학교"
+    },
+    {
+      "no": "272",
+      "en": "If you want to quit the student union, tell the registrar.",
+      "topic": "학교"
+    },
+    {
+      "no": "273",
+      "en": "Does the university have an ice-hockey team?",
+      "topic": "학교"
+    },
+    {
+      "no": "274",
+      "en": "Without doubt, his primary motive was economic.",
+      "topic": "경제"
     },
     {
       "no": "275",
@@ -97,6 +232,11 @@
       "topic": "학교"
     },
     {
+      "no": "280",
+      "en": "Knife and fork should be placed next to the spoon on the edge of the table.",
+      "topic": "기타"
+    },
+    {
       "no": "281",
       "en": "A study skill seminar is on for the students who require assistance.",
       "topic": "학교"
@@ -117,8 +257,23 @@
       "topic": "사회"
     },
     {
+      "no": "285",
+      "en": "I'll start with a brief history of the district, and then focus on life in the first half of the twentieth century.",
+      "topic": "기타"
+    },
+    {
       "no": "286",
       "en": "In the last few weeks, we've been looking at various aspects of the social history of London.",
+      "topic": "사회"
+    },
+    {
+      "no": "287",
+      "en": "International students can get help with locating housing near the university.",
+      "topic": "학교"
+    },
+    {
+      "no": "288",
+      "en": "Parents should provide guidance and examples to children's values.",
       "topic": "사회"
     },
     {
@@ -152,6 +307,11 @@
       "topic": "학교"
     },
     {
+      "no": "295",
+      "en": "The English word Typhoon comes from the Chinese word big wind.",
+      "topic": "기타"
+    },
+    {
       "no": "296",
       "en": "The professor will talk about the summary in the lecture.",
       "topic": "학교"
@@ -175,6 +335,11 @@
       "no": "300",
       "en": "The technology they introduced meant that metal and leather goods were produced there for the first time.",
       "topic": "기술"
+    },
+    {
+      "no": "301",
+      "en": "Tutorials are held for two hours every Thursday during semester.",
+      "topic": "학교"
     },
     {
       "no": "302",
@@ -202,6 +367,11 @@
       "topic": "학교"
     },
     {
+      "no": "307",
+      "en": "Would you pass the book on the left hand side?",
+      "topic": "기타"
+    },
+    {
       "no": "308",
       "en": "There are no scheduled classes during the final exam weeks.",
       "topic": "학교"
@@ -227,6 +397,11 @@
       "topic": "과학"
     },
     {
+      "no": "314",
+      "en": "They were struggling to pay their fees last year.",
+      "topic": "경제"
+    },
+    {
       "no": "315",
       "en": "It is quite clear that the rising prosperity does not make people feel more content.",
       "topic": "경제"
@@ -247,6 +422,21 @@
       "topic": "학교"
     },
     {
+      "no": "319",
+      "en": "This article covers who, where and when of the conflict.",
+      "topic": "기타"
+    },
+    {
+      "no": "320",
+      "en": "Essays should be typed with double spacing on white paper.",
+      "topic": "학교"
+    },
+    {
+      "no": "321",
+      "en": "The medical centre is located near the supermarket on North Street.",
+      "topic": "기타"
+    },
+    {
       "no": "322",
       "en": "The mismatch between the intended and reported uses of the instrument has become clear.",
       "topic": "기타"
@@ -262,6 +452,16 @@
       "topic": "기타"
     },
     {
+      "no": "325",
+      "en": "Novelists have a major role to play in reflecting their time to their readers.",
+      "topic": "예술"
+    },
+    {
+      "no": "326",
+      "en": "Overcrowding and poor sanitary conditions affected the daily lives of the majority of the population.",
+      "topic": "사회"
+    },
+    {
       "no": "327",
       "en": "Many of the urban poor lived in extremely cramped conditions.",
       "topic": "사회"
@@ -275,6 +475,11 @@
       "no": "329",
       "en": "You must wear a hard hat on the construction site.",
       "topic": "기타"
+    },
+    {
+      "no": "330",
+      "en": "In the past, students were required to complete too long written assignments.",
+      "topic": "학교"
     },
     {
       "no": "331",
@@ -295,6 +500,11 @@
       "no": "334",
       "en": "We are warning the clients that the rates are increasing.",
       "topic": "경제"
+    },
+    {
+      "no": "335",
+      "en": "Much of his research objectives are driven by his natural curiosity and instincts.",
+      "topic": "과학"
     },
     {
       "no": "336",
@@ -322,6 +532,11 @@
       "topic": "사회"
     },
     {
+      "no": "341",
+      "en": "Don't forget to do a campus tour on the first week of your semester.",
+      "topic": "학교"
+    },
+    {
       "no": "342",
       "en": "Acupuncture is a technique involved in traditional Chinese medicine.",
       "topic": "건강"
@@ -332,9 +547,19 @@
       "topic": "기타"
     },
     {
+      "no": "344",
+      "en": "Company exists for money, not for society.",
+      "topic": "경제"
+    },
+    {
       "no": "346",
       "en": "Rules about breaks and lunchtime vary from one company to another.",
       "topic": "사회"
+    },
+    {
+      "no": "347",
+      "en": "The original Olympic game is one kind of original festival.",
+      "topic": "기타"
     },
     {
       "no": "348",
@@ -392,6 +617,11 @@
       "topic": "기술"
     },
     {
+      "no": "360",
+      "en": "Just wait a minute, I will be with you shortly.",
+      "topic": "기타"
+    },
+    {
       "no": "361",
       "en": "I think the university's main campus is closed.",
       "topic": "학교"
@@ -400,6 +630,11 @@
       "no": "362",
       "en": "Today, we will be discussing the role of government in preventing injustice.",
       "topic": "사회"
+    },
+    {
+      "no": "363",
+      "en": "The results of the study underscored the discoveries from early detection.",
+      "topic": "과학"
     },
     {
       "no": "364",
@@ -437,6 +672,16 @@
       "topic": "학교"
     },
     {
+      "no": "371",
+      "en": "Students are afraid of writing an essay, because they have learned nothing about it.",
+      "topic": "학교"
+    },
+    {
+      "no": "372",
+      "en": "Glass is not a true solid because it does not have a crystal structure.",
+      "topic": "과학"
+    },
+    {
       "no": "373",
       "en": "You should include your name and identification number in the application form.",
       "topic": "기타"
@@ -465,6 +710,11 @@
       "no": "378",
       "en": "Could you pass the material to students that are in your row?",
       "topic": "학교"
+    },
+    {
+      "no": "379",
+      "en": "39.5% California residents speak a language other than English at home.",
+      "topic": "사회"
     },
     {
       "no": "380",
