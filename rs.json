@@ -2,9 +2,19 @@
   "date": "2025-06-02",
   "data": [
     {
+      "no": "103",
+      "en": "The hypothesis on black hole is rendered moot as the explanation of the explosion.",
+      "topic": "과학"
+    },
+    {
       "no": "115",
       "en": "Students are not allowed to speak when they are in the examination hall.",
       "topic": "학교"
+    },
+    {
+      "no": "134",
+      "en": "In eighteen eighty, cycling became a major phenomenon in Europe.",
+      "topic": "사회"
     },
     {
       "no": "148",
@@ -45,6 +55,11 @@
       "no": "249",
       "en": "There are various approaches for plagiarism across different university departments.",
       "topic": "학교"
+    },
+    {
+      "no": "263",
+      "en": "Care needs to be taken for vulnerable groups in times of infection.",
+      "topic": "건강"
     },
     {
       "no": "278",
@@ -317,6 +332,11 @@
       "topic": "과학"
     },
     {
+      "no": "752",
+      "en": "The student service center is located on the main campus behind the library.",
+      "topic": "학교"
+    },
+    {
       "no": "755",
       "en": "This Thursday is the last day for students to withdraw subjects without any penalty.",
       "topic": "학교"
@@ -327,14 +347,114 @@
       "topic": "학교"
     },
     {
+      "no": "762",
+      "en": "I would like tomato and cheese sandwiches on white bread and orange juice.",
+      "topic": "기타"
+    },
+    {
+      "no": "764",
+      "en": "I used to have coffee with milk and one sugar.",
+      "topic": "기타"
+    },
+    {
       "no": "767",
       "en": "Organizational failure is considered from various perspectives in academic literature.",
       "topic": "기타"
     },
     {
+      "no": "768",
+      "en": "Organic food is grown without applying chemicals and the process is without artificial additives.",
+      "topic": "건강"
+    },
+    {
+      "no": "775",
+      "en": "Number the beakers and put them away until tomorrow.",
+      "topic": "기타"
+    },
+    {
+      "no": "780",
+      "en": "The minimum mark for Distinction grade is no less than 75%.",
+      "topic": "학교"
+    },
+    {
+      "no": "782",
+      "en": "Nearly half of television outputs are given away for educational programs.",
+      "topic": "사회"
+    },
+    {
+      "no": "784",
+      "en": "39.5% of Californian residents do not speak English at home.",
+      "topic": "사회"
+    },
+    {
+      "no": "787",
+      "en": "Essays with few or no citations will be regarded as invalid.",
+      "topic": "학교"
+    },
+    {
+      "no": "788",
+      "en": "Many undergraduate students go back home to stay with their parents after graduation.",
+      "topic": "사회"
+    },
+    {
+      "no": "791",
+      "en": "The professor is going to discuss the conflict.",
+      "topic": "학교"
+    },
+    {
+      "no": "795",
+      "en": "To understand its entity, we need to go back to its origin.",
+      "topic": "기타"
+    },
+    {
+      "no": "796",
+      "en": "She told the faculty to be very supportive.",
+      "topic": "학교"
+    },
+    {
       "no": "800",
       "en": "Tomorrow evening, there will be a panel discussion on sustainable development.",
       "topic": "사회"
+    },
+    {
+      "no": "806",
+      "en": "This science fiction novel uses advanced space technologies to create the setting.",
+      "topic": "예술"
+    },
+    {
+      "no": "807",
+      "en": "All sources of materials must be included in your bibliography.",
+      "topic": "학교"
+    },
+    {
+      "no": "810",
+      "en": "There are a range of housing options near the university.",
+      "topic": "학교"
+    },
+    {
+      "no": "811",
+      "en": "Our school of arts and technology accepts applications at all points throughout the year.",
+      "topic": "학교"
+    },
+    {
+      "no": "819",
+      "en": "There is considerably less supervision at university.",
+      "topic": "학교"
+    },
+    {
+      "no": "822",
+      "en": "This is a prestigious program for our university.",
+      "topic": "학교"
+    },
+    {
+      "no": "824",
+      "en": "Students are competing for every place in the computer courses.",
+      "topic": "학교"
+    },
+    {
+      "no": "825",
+      "en": "I didn't agree with the author’s argument, but his presentation was good.",
+      "topic": "기타"
     },
     {
       "no": "826",
@@ -347,9 +467,49 @@
       "topic": "학교"
     },
     {
+      "no": "828",
+      "en": "We didn't mean to ask him to do it because he cannot manage it.",
+      "topic": "기타"
+    },
+    {
+      "no": "834",
+      "en": "Make sure the financial director knows the full details of the pay agreement.",
+      "topic": "경제"
+    },
+    {
+      "no": "842",
+      "en": "Expertise in particular areas distinguishes you from other graduates in a job interview.",
+      "topic": "경제"
+    },
+    {
+      "no": "845",
+      "en": "We need to make sure the school principal knows about the changes.",
+      "topic": "학교"
+    },
+    {
       "no": "846",
       "en": "I am glad that Professor Gordon just joined our faculty.",
       "topic": "학교"
+    },
+    {
+      "no": "848",
+      "en": "We want to attract the very best students regardless of their financial circumstances.",
+      "topic": "학교"
+    },
+    {
+      "no": "850",
+      "en": "The genetic biology technology lab is located at the North Wing of the library.",
+      "topic": "과학"
+    },
+    {
+      "no": "853",
+      "en": "The older equipment has been put at the back of the building.",
+      "topic": "기타"
+    },
+    {
+      "no": "859",
+      "en": "Care needs to be taken for vulnerable groups during the periods of turmoil.",
+      "topic": "건강"
     },
     {
       "no": "860",
@@ -362,9 +522,19 @@
       "topic": "학교"
     },
     {
+      "no": "864",
+      "en": "Students should book a library tour on the first week of the first semester.",
+      "topic": "학교"
+    },
+    {
       "no": "865",
       "en": "The capacity of programming computers is expanding enormously every year.",
       "topic": "기술"
+    },
+    {
+      "no": "866",
+      "en": "It is interesting to observe the development of language skills of toddlers.",
+      "topic": "기타"
     },
     {
       "no": "867",
@@ -372,8 +542,88 @@
       "topic": "학교"
     },
     {
+      "no": "868",
+      "en": "The timetable will be posted on the website before the class starts.",
+      "topic": "학교"
+    },
+    {
+      "no": "870",
+      "en": "It is within the framework that we're making our survey.",
+      "topic": "기타"
+    },
+    {
+      "no": "874",
+      "en": "She feared becoming an object of ridicule.",
+      "topic": "기타"
+    },
+    {
+      "no": "883",
+      "en": "Don’t hesitate to email me if you have any questions.",
+      "topic": "기타"
+    },
+    {
       "no": "887",
       "en": "Essays with few or no citations will raise the concern of the lecturers.",
+      "topic": "학교"
+    },
+    {
+      "no": "888",
+      "en": "The generic biology technology lab is located at the North Wing of the library.",
+      "topic": "과학"
+    },
+    {
+      "no": "889",
+      "en": "The lecture was meant to start at ten.",
+      "topic": "학교"
+    },
+    {
+      "no": "890",
+      "en": "The new English class will start next Monday morning.",
+      "topic": "학교"
+    },
+    {
+      "no": "891",
+      "en": "Animals grow larger and stronger to help them to hunt better.",
+      "topic": "과학"
+    },
+    {
+      "no": "892",
+      "en": "As a student union member, we can influence the change of the university.",
+      "topic": "학교"
+    },
+    {
+      "no": "893",
+      "en": "It is good for the environment also good for your electricity bill.",
+      "topic": "기타"
+    },
+    {
+      "no": "894",
+      "en": "We need to read the first five chapters to prepare for next week's tutorial.",
+      "topic": "학교"
+    },
+    {
+      "no": "895",
+      "en": "Companies are aiming to earn the money not to change society.",
+      "topic": "경제"
+    },
+    {
+      "no": "896",
+      "en": "We will study the following two pictures in the next lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "897",
+      "en": "We will see if we can get through this without too many interruptions.",
+      "topic": "기타"
+    },
+    {
+      "no": "898",
+      "en": "The key to success in the exam is to study hard and do well.",
+      "topic": "학교"
+    },
+    {
+      "no": "899",
+      "en": "Many of the universities' original buildings are still in use.",
       "topic": "학교"
     },
     {
