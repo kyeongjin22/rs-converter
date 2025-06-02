@@ -72,6 +72,21 @@
       "topic": "건강"
     },
     {
+      "no": "275",
+      "en": "The modern approach to the problem is to stress the symbolic side of human nature.",
+      "topic": "기타"
+    },
+    {
+      "no": "276",
+      "en": "This part of the story is the story of my father.",
+      "topic": "기타"
+    },
+    {
+      "no": "277",
+      "en": "The visiting professor is going to give a lecture for geology.",
+      "topic": "학교"
+    },
+    {
       "no": "278",
       "en": "The investigation aims to find the stand of the problem.",
       "topic": "기타"
@@ -92,6 +107,41 @@
       "topic": "기타"
     },
     {
+      "no": "283",
+      "en": "A lot of agricultural workers came to the East End to look for alternative work.",
+      "topic": "경제"
+    },
+    {
+      "no": "284",
+      "en": "During the next few centuries, London became one of the most powerful and prosperous cities in Europe.",
+      "topic": "사회"
+    },
+    {
+      "no": "286",
+      "en": "In the last few weeks, we've been looking at various aspects of the social history of London.",
+      "topic": "사회"
+    },
+    {
+      "no": "289",
+      "en": "Please hand in assignments at the main office.",
+      "topic": "학교"
+    },
+    {
+      "no": "290",
+      "en": "The brief outline takes us to the beginning of the 20th century.",
+      "topic": "기타"
+    },
+    {
+      "no": "291",
+      "en": "The campus tour will help you get familiar with the teaching facilities.",
+      "topic": "학교"
+    },
+    {
+      "no": "292",
+      "en": "The circulation desk is located on the ground floor.",
+      "topic": "학교"
+    },
+    {
       "no": "293",
       "en": "This semester will be from October to January.",
       "topic": "학교"
@@ -102,8 +152,73 @@
       "topic": "학교"
     },
     {
+      "no": "296",
+      "en": "The professor will talk about the summary in the lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "297",
+      "en": "The Romans left in 410 at the beginning of the fifth century.",
+      "topic": "기타"
+    },
+    {
+      "no": "298",
+      "en": "The smoke from these contributed a great deal to the air pollution.",
+      "topic": "환경"
+    },
+    {
+      "no": "299",
+      "en": "The student welfare officer can help with questions about exam techniques.",
+      "topic": "학교"
+    },
+    {
+      "no": "300",
+      "en": "The technology they introduced meant that metal and leather goods were produced there for the first time.",
+      "topic": "기술"
+    },
+    {
+      "no": "302",
+      "en": "We are not going to accept the assignment after the due date on Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "303",
+      "en": "We would like people to write a case study, describing an organization they know.",
+      "topic": "학교"
+    },
+    {
       "no": "304",
       "en": "The library is downstairs in the east of the building.",
+      "topic": "학교"
+    },
+    {
+      "no": "305",
+      "en": "The United Kingdom is a constitutional monarchy and parliamentary democracy.",
+      "topic": "사회"
+    },
+    {
+      "no": "306",
+      "en": "Professor Smith will be late for today's lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "308",
+      "en": "There are no scheduled classes during the final exam weeks.",
+      "topic": "학교"
+    },
+    {
+      "no": "309",
+      "en": "Doctor Green's office has been moved to the second floor of the building.",
+      "topic": "기타"
+    },
+    {
+      "no": "310",
+      "en": "The economic class will take place in the main lecture room.",
+      "topic": "학교"
+    },
+    {
+      "no": "311",
+      "en": "Students can get access to computers on a daily basis.",
       "topic": "학교"
     },
     {
@@ -112,9 +227,79 @@
       "topic": "과학"
     },
     {
+      "no": "315",
+      "en": "It is quite clear that the rising prosperity does not make people feel more content.",
+      "topic": "경제"
+    },
+    {
+      "no": "316",
+      "en": "This course will examine some of the profound ethical dilemmas.",
+      "topic": "학교"
+    },
+    {
+      "no": "317",
+      "en": "Fees are heavily discounted and bursaries are available for delegates.",
+      "topic": "경제"
+    },
+    {
+      "no": "318",
+      "en": "Students are held accountable for adhering to established community standards.",
+      "topic": "학교"
+    },
+    {
+      "no": "322",
+      "en": "The mismatch between the intended and reported uses of the instrument has become clear.",
+      "topic": "기타"
+    },
+    {
+      "no": "323",
+      "en": "New York City is famous for its ethnic diversity.",
+      "topic": "사회"
+    },
+    {
+      "no": "324",
+      "en": "A periodical is a publication that is issued regularly.",
+      "topic": "기타"
+    },
+    {
+      "no": "327",
+      "en": "Many of the urban poor lived in extremely cramped conditions.",
+      "topic": "사회"
+    },
+    {
+      "no": "328",
+      "en": "We are also going to be more prescriptive about what you focus on in your presentation.",
+      "topic": "학교"
+    },
+    {
       "no": "329",
       "en": "You must wear a hard hat on the construction site.",
       "topic": "기타"
+    },
+    {
+      "no": "331",
+      "en": "The date of the invention of the first clock is disputed among historians.",
+      "topic": "과학"
+    },
+    {
+      "no": "332",
+      "en": "However, this method is problematic in terms of accuracy.",
+      "topic": "기타"
+    },
+    {
+      "no": "333",
+      "en": "The fire left the area almost completely devoid of vegetation.",
+      "topic": "환경"
+    },
+    {
+      "no": "334",
+      "en": "We are warning the clients that the rates are increasing.",
+      "topic": "경제"
+    },
+    {
+      "no": "336",
+      "en": "I will now demonstrate how the reaction can be arrested by adding a dilute acid.",
+      "topic": "과학"
     },
     {
       "no": "337",
@@ -127,13 +312,33 @@
       "topic": "기타"
     },
     {
+      "no": "339",
+      "en": "Maybe it is time for me to make some changes.",
+      "topic": "기타"
+    },
+    {
       "no": "340",
       "en": "Globalization has been an overwhelming urbanization phenomenon.",
       "topic": "사회"
     },
     {
+      "no": "342",
+      "en": "Acupuncture is a technique involved in traditional Chinese medicine.",
+      "topic": "건강"
+    },
+    {
       "no": "343",
       "en": "The restaurant is located next to the theater.",
+      "topic": "기타"
+    },
+    {
+      "no": "346",
+      "en": "Rules about breaks and lunchtime vary from one company to another.",
+      "topic": "사회"
+    },
+    {
+      "no": "348",
+      "en": "The café house is closed down and the snack machine is still running throughout the night.",
       "topic": "기타"
     },
     {
@@ -152,6 +357,11 @@
       "topic": "학교"
     },
     {
+      "no": "352",
+      "en": "We don't have enough evidence to draw conclusions.",
+      "topic": "기타"
+    },
+    {
       "no": "353",
       "en": "You can pay using cash or a credit card.",
       "topic": "경제"
@@ -162,9 +372,29 @@
       "topic": "기타"
     },
     {
+      "no": "355",
+      "en": "I still don't understand the last sentence.",
+      "topic": "기타"
+    },
+    {
+      "no": "356",
+      "en": "Student services provide help with housing and transport.",
+      "topic": "학교"
+    },
+    {
       "no": "357",
       "en": "The rising inflation rate indicates a decrease in demand for consumer products.",
       "topic": "경제"
+    },
+    {
+      "no": "359",
+      "en": "The information on the internet becomes more reliable.",
+      "topic": "기술"
+    },
+    {
+      "no": "361",
+      "en": "I think the university's main campus is closed.",
+      "topic": "학교"
     },
     {
       "no": "362",
@@ -172,14 +402,34 @@
       "topic": "사회"
     },
     {
+      "no": "364",
+      "en": "The professor has promised to put his lecture notes online.",
+      "topic": "학교"
+    },
+    {
       "no": "365",
       "en": "If you need a part-time job, it should not interfere with your studies.",
+      "topic": "학교"
+    },
+    {
+      "no": "366",
+      "en": "Your enrollment information, results and fees will be available online.",
       "topic": "학교"
     },
     {
       "no": "367",
       "en": "If you like cooking, we can make supper together.",
       "topic": "기타"
+    },
+    {
+      "no": "368",
+      "en": "All students must participate in the exercise.",
+      "topic": "학교"
+    },
+    {
+      "no": "369",
+      "en": "All filed assignments should have a full list of bibliography.",
+      "topic": "학교"
     },
     {
       "no": "370",
