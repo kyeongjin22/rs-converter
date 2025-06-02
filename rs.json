@@ -102,6 +102,11 @@
       "topic": "기타"
     },
     {
+      "no": "357",
+      "en": "The rising inflation rate indicates a decrease in demand for consumer products.",
+      "topic": "경제"
+    },
+    {
       "no": "365",
       "en": "If you need a part-time job, it should not interfere with your studies.",
       "topic": "학교"
@@ -180,6 +185,11 @@
       "no": "455",
       "en": "Your son has a bad cold and is in the nurse's room.",
       "topic": "건강"
+    },
+    {
+      "no": "461",
+      "en": "Any textual references you make should be cited appropriately in the footnotes.",
+      "topic": "학교"
     },
     {
       "no": "467",
@@ -295,6 +305,246 @@
       "no": "1065",
       "en": "At that time, people moved from towns to villages.",
       "topic": "사회"
+    },
+    {
+      "no": "1108",
+      "en": "Read the safety instructions before using the equipment during the workshop.",
+      "topic": "학교"
+    },
+    {
+      "no": "1109",
+      "en": "The exam will start on time, please prepare yourself.",
+      "topic": "학교"
+    },
+    {
+      "no": "1110",
+      "en": "The brain is our central computer of our bodies.",
+      "topic": "과학"
+    },
+    {
+      "no": "1111",
+      "en": "Please remain seated after finishing your exam.",
+      "topic": "학교"
+    },
+    {
+      "no": "1113",
+      "en": "The university offers facilities to students and staff.",
+      "topic": "학교"
+    },
+    {
+      "no": "1114",
+      "en": "The topic for discussion is usually related to the topic for a speech.",
+      "topic": "학교"
+    },
+    {
+      "no": "1115",
+      "en": "By using the student identification card you can borrow books from the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "1116",
+      "en": "The teacher's difficulty is always considered when assessing student marks.",
+      "topic": "학교"
+    },
+    {
+      "no": "1118",
+      "en": "Young children need education and organized activities.",
+      "topic": "학교"
+    },
+    {
+      "no": "1119",
+      "en": "Please click the logo above to enter the site.",
+      "topic": "기술"
+    },
+    {
+      "no": "1120",
+      "en": "Before attending the lecture, you must register online or by post.",
+      "topic": "학교"
+    },
+    {
+      "no": "1121",
+      "en": "Students should take advantage of the online help system before approaching their lecturers.",
+      "topic": "학교"
+    },
+    {
+      "no": "1123",
+      "en": "Effective presenters make eye contact with the audience.",
+      "topic": "기타"
+    },
+    {
+      "no": "1124",
+      "en": "There are three separate assignments for this module.",
+      "topic": "학교"
+    },
+    {
+      "no": "1125",
+      "en": "The website is designed to be highly interactive.",
+      "topic": "기술"
+    },
+    {
+      "no": "1126",
+      "en": "The assignment should be submitted prior to the spring break.",
+      "topic": "학교"
+    },
+    {
+      "no": "1127",
+      "en": "The geography assignments must be submitted by the midday of Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "1128",
+      "en": "The atmosphere is composed by oxygen and nitrogen gases.",
+      "topic": "과학"
+    },
+    {
+      "no": "1129",
+      "en": "Design changes need to be considered carefully to ensure improvement.",
+      "topic": "기술"
+    },
+    {
+      "no": "1130",
+      "en": "The field training will start soon, so pack everything before the deadline.",
+      "topic": "기타"
+    },
+    {
+      "no": "1131",
+      "en": "Lecture will be available in audio or video.",
+      "topic": "학교"
+    },
+    {
+      "no": "1132",
+      "en": "There is no point in designing efficient cars if we use them more and more.",
+      "topic": "기술"
+    },
+    {
+      "no": "1133",
+      "en": "His tone tonight was nothing short of jealousy.",
+      "topic": "기타"
+    },
+    {
+      "no": "1134",
+      "en": "Demand for access to the library workstations is very high.",
+      "topic": "학교"
+    },
+    {
+      "no": "1136",
+      "en": "Our university welcomes postgraduate students from all over the world.",
+      "topic": "학교"
+    },
+    {
+      "no": "1137",
+      "en": "The loser of the race buys everybody else an ice cream.",
+      "topic": "기타"
+    },
+    {
+      "no": "1138",
+      "en": "Weather here is unpredictable.",
+      "topic": "과학"
+    },
+    {
+      "no": "1139",
+      "en": "The laboratory is deemed too dangerous for children, but there is one child that visits it daily.",
+      "topic": "과학"
+    },
+    {
+      "no": "1140",
+      "en": "Long before children are able to speak or understand a language, they communicate through facial expressions and by making noises.",
+      "topic": "과학"
+    },
+    {
+      "no": "1141",
+      "en": "Under normal conditions, markets will allocate resources efficiently.",
+      "topic": "경제"
+    },
+    {
+      "no": "1142",
+      "en": "He reads magazines but he doesn’t like to read books.",
+      "topic": "기타"
+    },
+    {
+      "no": "1143",
+      "en": "I would never feed my dog with commercial dog food.",
+      "topic": "기타"
+    },
+    {
+      "no": "1144",
+      "en": "After she lost her job she couldn’t afford to feed her dogs, so she gave them away.",
+      "topic": "사회"
+    },
+    {
+      "no": "1145",
+      "en": "The chocolate chip cookies smelled so good that I ate one without asking.",
+      "topic": "기타"
+    },
+    {
+      "no": "1146",
+      "en": "My mom made a milkshake with frozen bananas and chocolate sauce.",
+      "topic": "기타"
+    },
+    {
+      "no": "1147",
+      "en": "Privacy issues surrounding mobile computers are becoming complex.",
+      "topic": "기술"
+    },
+    {
+      "no": "1148",
+      "en": "The plan raised a lot of money and improved the economy of the country.",
+      "topic": "경제"
+    },
+    {
+      "no": "1149",
+      "en": "Fungi are important in the process of decay, which returns ingredients to the soil, enhances soil fertility, and decomposes animal debris.",
+      "topic": "과학"
+    },
+    {
+      "no": "1150",
+      "en": "If their aspirations are not achieved, they become gloomy.",
+      "topic": "기타"
+    },
+    {
+      "no": "1151",
+      "en": "The causality theory states that for every effect, there is a cause.",
+      "topic": "과학"
+    },
+    {
+      "no": "1152",
+      "en": "There are many reasons why knowing several languages is a major career advantage.",
+      "topic": "기타"
+    },
+    {
+      "no": "1153",
+      "en": "This college has a good reputation for both its research and its teaching.",
+      "topic": "학교"
+    },
+    {
+      "no": "1154",
+      "en": "Next week the department secretary will email you with the details of your tutorial groups.",
+      "topic": "학교"
+    },
+    {
+      "no": "1155",
+      "en": "Students should submit two copies of their dissertation to the department office by Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "1156",
+      "en": "The college provides an advice service to support students with financial, emotional and other problems.",
+      "topic": "학교"
+    },
+    {
+      "no": "1157",
+      "en": "The library will stay open until midnight during the exam period.",
+      "topic": "학교"
+    },
+    {
+      "no": "1158",
+      "en": "Today's lecture on modern American literature has been cancelled.",
+      "topic": "학교"
+    },
+    {
+      "no": "1159",
+      "en": "There is considerable disagreement about the main cause of the revolution.",
+      "topic": "기타"
     },
     {
       "no": "1160",
