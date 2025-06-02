@@ -2,6 +2,11 @@
   "date": "2025-06-02",
   "data": [
     {
+      "no": "35",
+      "en": "You should enquire about the direct deposit.",
+      "topic": "경제"
+    },
+    {
       "no": "103",
       "en": "The hypothesis on black hole is rendered moot as the explanation of the explosion.",
       "topic": "과학"
@@ -137,9 +142,19 @@
       "topic": "학교"
     },
     {
+      "no": "354",
+      "en": "We didn't have any noticeable variance between the two or three tasks.",
+      "topic": "기타"
+    },
+    {
       "no": "357",
       "en": "The rising inflation rate indicates a decrease in demand for consumer products.",
       "topic": "경제"
+    },
+    {
+      "no": "362",
+      "en": "Today, we will be discussing the role of government in preventing injustice.",
+      "topic": "사회"
     },
     {
       "no": "365",
@@ -267,6 +282,11 @@
       "topic": "학교"
     },
     {
+      "no": "557",
+      "en": "It seems that language appears from nowhere.",
+      "topic": "과학"
+    },
+    {
       "no": "569",
       "en": "The health center is situated at the corner of the university behind the library.",
       "topic": "건강"
@@ -285,6 +305,11 @@
       "no": "640",
       "en": "I would like an egg and tomatoes on white sandwich bread with orange juice.",
       "topic": "기타"
+    },
+    {
+      "no": "646",
+      "en": "His lecture is always useful and stimulated.",
+      "topic": "학교"
     },
     {
       "no": "656",
@@ -307,9 +332,19 @@
       "topic": "과학"
     },
     {
+      "no": "703",
+      "en": "In my free time, I would like to read newspapers.",
+      "topic": "기타"
+    },
+    {
       "no": "710",
       "en": "Students should take advantage of the internet before attending the lecture.",
       "topic": "학교"
+    },
+    {
+      "no": "713",
+      "en": "The hypothesis needs to be tested in a more rigorous way.",
+      "topic": "과학"
     },
     {
       "no": "714",
@@ -327,9 +362,34 @@
       "topic": "학교"
     },
     {
+      "no": "721",
+      "en": "A renowned economist is selected to have a speech tonight at eight.",
+      "topic": "경제"
+    },
+    {
       "no": "723",
       "en": "Many experts think that the world climate is changing.",
       "topic": "과학"
+    },
+    {
+      "no": "728",
+      "en": "Those reference books are too old, while the others are OK.",
+      "topic": "학교"
+    },
+    {
+      "no": "749",
+      "en": "The United States has the maximum production of chocolate.",
+      "topic": "경제"
+    },
+    {
+      "no": "750",
+      "en": "I don't understand what the comment of my essay means.",
+      "topic": "학교"
+    },
+    {
+      "no": "751",
+      "en": "Our fundamental realities, especially national needs, have seen the ability to flourish.",
+      "topic": "사회"
     },
     {
       "no": "752",
@@ -437,14 +497,54 @@
       "topic": "학교"
     },
     {
+      "no": "812",
+      "en": "Conservation is the survival of future generation.",
+      "topic": "과학"
+    },
+    {
+      "no": "813",
+      "en": "Does the government in your country help families that need help?",
+      "topic": "사회"
+    },
+    {
+      "no": "814",
+      "en": "Due to the rising demand for courses, the university should also increase their academic staff.",
+      "topic": "학교"
+    },
+    {
+      "no": "815",
+      "en": "Eating too much will do harm to your health.",
+      "topic": "건강"
+    },
+    {
+      "no": "816",
+      "en": "Globalization has been a major force driving both urbanization and the growth of cities.",
+      "topic": "사회"
+    },
+    {
       "no": "819",
       "en": "There is considerably less supervision at university.",
       "topic": "학교"
     },
     {
+      "no": "820",
+      "en": "I will be in my office every Tuesday and Thursday.",
+      "topic": "기타"
+    },
+    {
+      "no": "821",
+      "en": "I’m glad you got here safely.",
+      "topic": "기타"
+    },
+    {
       "no": "822",
       "en": "This is a prestigious program for our university.",
       "topic": "학교"
+    },
+    {
+      "no": "823",
+      "en": "This small Indian state is a land of forests, valleys and snowy islands.",
+      "topic": "기타"
     },
     {
       "no": "824",
@@ -472,14 +572,64 @@
       "topic": "기타"
     },
     {
+      "no": "830",
+      "en": "There is absolutely no archaeological evidence to prove that Alexander the Great existed.",
+      "topic": "과학"
+    },
+    {
+      "no": "831",
+      "en": "I spend my time really studying human beings.",
+      "topic": "기타"
+    },
+    {
+      "no": "833",
+      "en": "A hundred years ago, Albert Einstein first published his theory of general relativity.",
+      "topic": "과학"
+    },
+    {
       "no": "834",
       "en": "Make sure the financial director knows the full details of the pay agreement.",
+      "topic": "경제"
+    },
+    {
+      "no": "836",
+      "en": "Physics is a detailed study of matter and energy.",
+      "topic": "과학"
+    },
+    {
+      "no": "837",
+      "en": "There is limited funding in this department to support qualified students.",
+      "topic": "학교"
+    },
+    {
+      "no": "838",
+      "en": "By clicking this button, you agree with the terms and conditions of this website.",
+      "topic": "기술"
+    },
+    {
+      "no": "839",
+      "en": "Student loans are now available for international students.",
+      "topic": "학교"
+    },
+    {
+      "no": "840",
+      "en": "Spiritualism is defined as a system of belief or religious practice.",
+      "topic": "기타"
+    },
+    {
+      "no": "841",
+      "en": "Companies need to satisfy customers’ needs if they want to be successful.",
       "topic": "경제"
     },
     {
       "no": "842",
       "en": "Expertise in particular areas distinguishes you from other graduates in a job interview.",
       "topic": "경제"
+    },
+    {
+      "no": "843",
+      "en": "Newspapers across the world are reporting stories of presidents.",
+      "topic": "사회"
     },
     {
       "no": "845",
@@ -492,9 +642,19 @@
       "topic": "학교"
     },
     {
+      "no": "847",
+      "en": "Genetic and biochemical analyses have generated a detailed portfolio of mechanisms.",
+      "topic": "과학"
+    },
+    {
       "no": "848",
       "en": "We want to attract the very best students regardless of their financial circumstances.",
       "topic": "학교"
+    },
+    {
+      "no": "849",
+      "en": "History is not a simple collection of dates and events.",
+      "topic": "기타"
     },
     {
       "no": "850",
@@ -502,9 +662,29 @@
       "topic": "과학"
     },
     {
+      "no": "851",
+      "en": "Students' identification cards will be issued today and tomorrow.",
+      "topic": "학교"
+    },
+    {
+      "no": "852",
+      "en": "The concepts in this thesis were not new.",
+      "topic": "학교"
+    },
+    {
       "no": "853",
       "en": "The older equipment has been put at the back of the building.",
       "topic": "기타"
+    },
+    {
+      "no": "854",
+      "en": "The Arts Magazine is looking for a new Assistant Editor.",
+      "topic": "예술"
+    },
+    {
+      "no": "858",
+      "en": "Modern poetry often tests the conventions of language and the rhythm.",
+      "topic": "예술"
     },
     {
       "no": "859",
@@ -515,6 +695,16 @@
       "no": "860",
       "en": "The first assignment is due on the fourteenth of September.",
       "topic": "학교"
+    },
+    {
+      "no": "861",
+      "en": "This can be used as a starting point of my discussion today.",
+      "topic": "기타"
+    },
+    {
+      "no": "862",
+      "en": "She is an expert of eighteenth-century French literature.",
+      "topic": "예술"
     },
     {
       "no": "863",
@@ -552,13 +742,73 @@
       "topic": "기타"
     },
     {
+      "no": "871",
+      "en": "There will be an open book exam on Monday, the twenty-eighth.",
+      "topic": "학교"
+    },
+    {
+      "no": "872",
+      "en": "Please make sure all workers follow the department guidelines.",
+      "topic": "기타"
+    },
+    {
+      "no": "873",
+      "en": "Environmental friendliness is a new category in which campuses are competing.",
+      "topic": "사회"
+    },
+    {
       "no": "874",
       "en": "She feared becoming an object of ridicule.",
       "topic": "기타"
     },
     {
+      "no": "875",
+      "en": "We are constantly looking for ways to bring industry and agriculture closer together.",
+      "topic": "경제"
+    },
+    {
+      "no": "877",
+      "en": "Higher fees make students think more critically about what universities can offer.",
+      "topic": "학교"
+    },
+    {
+      "no": "878",
+      "en": "The cafe will close soon but you can use the snack machine which is running overnight.",
+      "topic": "기타"
+    },
+    {
+      "no": "879",
+      "en": "Diagnosis is not a single event, but an evolving process.",
+      "topic": "건강"
+    },
+    {
+      "no": "880",
+      "en": "Diagnosis is not a discrete or limited process.",
+      "topic": "건강"
+    },
+    {
+      "no": "881",
+      "en": "The university will introduce several new courses in the coming year.",
+      "topic": "학교"
+    },
+    {
+      "no": "882",
+      "en": "The search for universal explanations plays an important role in the development of archaeological theory.",
+      "topic": "과학"
+    },
+    {
       "no": "883",
       "en": "Don’t hesitate to email me if you have any questions.",
+      "topic": "기타"
+    },
+    {
+      "no": "884",
+      "en": "The most modern agricultural equipment is now extremely expensive.",
+      "topic": "경제"
+    },
+    {
+      "no": "885",
+      "en": "The theoretical proposal was challenging to grasp.",
       "topic": "기타"
     },
     {
