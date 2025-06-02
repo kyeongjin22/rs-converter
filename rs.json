@@ -187,6 +187,21 @@
       "topic": "학교"
     },
     {
+      "no": "373",
+      "en": "You should include your name and identification number in the application form.",
+      "topic": "기타"
+    },
+    {
+      "no": "374",
+      "en": "Children are not allowed in the chemical labs.",
+      "topic": "학교"
+    },
+    {
+      "no": "375",
+      "en": "I'm glad that you've got it.",
+      "topic": "기타"
+    },
+    {
       "no": "376",
       "en": "Passengers on the train should not put feet on the seat.",
       "topic": "기타"
@@ -195,6 +210,11 @@
       "no": "377",
       "en": "I make sure to prepare reports for my boss.",
       "topic": "기타"
+    },
+    {
+      "no": "378",
+      "en": "Could you pass the material to students that are in your row?",
+      "topic": "학교"
     },
     {
       "no": "380",
@@ -212,6 +232,16 @@
       "topic": "기타"
     },
     {
+      "no": "383",
+      "en": "The university celebrated the Earth Day by planting trees.",
+      "topic": "학교"
+    },
+    {
+      "no": "384",
+      "en": "Remember to sign the attendance register before leaving the lecture hall.",
+      "topic": "학교"
+    },
+    {
       "no": "385",
       "en": "You can speak to the current students at the information sessions.",
       "topic": "학교"
@@ -219,6 +249,126 @@
     {
       "no": "387",
       "en": "Several people have applied for this position.",
+      "topic": "기타"
+    },
+    {
+      "no": "388",
+      "en": "When I was in school, I had many of the same problems you do now.",
+      "topic": "학교"
+    },
+    {
+      "no": "389",
+      "en": "The result of the study will be published next month.",
+      "topic": "과학"
+    },
+    {
+      "no": "390",
+      "en": "The real reason for global hunger is not the lack of food, but poverty.",
+      "topic": "사회"
+    },
+    {
+      "no": "391",
+      "en": "The original Olympic Games were celebrated as religious festivals.",
+      "topic": "예술"
+    },
+    {
+      "no": "392",
+      "en": "She has been in the library for a long time.",
+      "topic": "기타"
+    },
+    {
+      "no": "394",
+      "en": "Please register your student email account at your earliest convenience.",
+      "topic": "학교"
+    },
+    {
+      "no": "395",
+      "en": "Our professor is hosting the business development conference next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "396",
+      "en": "On behalf of our department, thank you for your participation.",
+      "topic": "기타"
+    },
+    {
+      "no": "397",
+      "en": "Even with the permit, finding a parking spot on campus is still impossible.",
+      "topic": "학교"
+    },
+    {
+      "no": "398",
+      "en": "All the assignments should be submitted by the end of this week.",
+      "topic": "학교"
+    },
+    {
+      "no": "399",
+      "en": "It is acknowledged that his work is groundbreaking.",
+      "topic": "기타"
+    },
+    {
+      "no": "400",
+      "en": "You can get a student card at the reception.",
+      "topic": "학교"
+    },
+    {
+      "no": "401",
+      "en": "Unfortunately, the two most interesting economics electives clash on my timetable.",
+      "topic": "학교"
+    },
+    {
+      "no": "402",
+      "en": "The new hypothesis needs to be tested with a new controlled experiment.",
+      "topic": "과학"
+    },
+    {
+      "no": "403",
+      "en": "Establishing and retaining intellectual leadership clearly takes strong management skills.",
+      "topic": "기타"
+    },
+    {
+      "no": "404",
+      "en": "Almost every representative of a new idea has to struggle and suffer similar difficulties.",
+      "topic": "기타"
+    },
+    {
+      "no": "405",
+      "en": "The interaction of climate change and soil degradation will probably aggravate conditions.",
+      "topic": "과학"
+    },
+    {
+      "no": "406",
+      "en": "Information is being given to readers in a format that looks familiar.",
+      "topic": "기타"
+    },
+    {
+      "no": "407",
+      "en": "Very little of the work of today's knowledge firm is repetitive mechanical.",
+      "topic": "기술"
+    },
+    {
+      "no": "408",
+      "en": "The recent technical advances have not only been big, they have also been fast.",
+      "topic": "기술"
+    },
+    {
+      "no": "409",
+      "en": "I must see him before he flies out to London for about a week.",
+      "topic": "기타"
+    },
+    {
+      "no": "410",
+      "en": "The verdict depends on which side was more convincing to the jury.",
+      "topic": "사회"
+    },
+    {
+      "no": "411",
+      "en": "Anatomy is the study of internal and external body structures.",
+      "topic": "과학"
+    },
+    {
+      "no": "412",
+      "en": "Biographical information should be removed before the publication of the results.",
       "topic": "기타"
     },
     {
@@ -252,9 +402,19 @@
       "topic": "학교"
     },
     {
+      "no": "419",
+      "en": "If you need any information about the university, you can check from information office located beside the corridor.",
+      "topic": "학교"
+    },
+    {
       "no": "420",
       "en": "I was overwhelmed with too much irrelevant information.",
       "topic": "기타"
+    },
+    {
+      "no": "421",
+      "en": "I could not save my work as my computer got crashed.",
+      "topic": "기술"
     },
     {
       "no": "422",
@@ -287,6 +447,16 @@
       "topic": "과학"
     },
     {
+      "no": "428",
+      "en": "More muscles are used in swimming than any other sport.",
+      "topic": "건강"
+    },
+    {
+      "no": "429",
+      "en": "Due to rising enrollment for courses, universities should increase their staff, too.",
+      "topic": "학교"
+    },
+    {
       "no": "430",
       "en": "The chemistry exam results will be posted on the website.",
       "topic": "학교"
@@ -294,6 +464,11 @@
     {
       "no": "431",
       "en": "Critical literature theories broaden interpretation.",
+      "topic": "예술"
+    },
+    {
+      "no": "432",
+      "en": "Basketball was created in 1891 by a physician and physical education instructor.",
       "topic": "예술"
     },
     {
@@ -352,6 +527,11 @@
       "topic": "학교"
     },
     {
+      "no": "444",
+      "en": "A demonstrated ability to write clear, correct and concise English is obligatory.",
+      "topic": "기타"
+    },
+    {
       "no": "445",
       "en": "The students were instructed to submit their assignments before Friday.",
       "topic": "학교"
@@ -365,6 +545,11 @@
       "no": "447",
       "en": "The library is located at the other side of the campus behind the student center.",
       "topic": "학교"
+    },
+    {
+      "no": "448",
+      "en": "The topic next week will be colonialism and nuclear disarmament.",
+      "topic": "사회"
     },
     {
       "no": "449",
@@ -387,6 +572,11 @@
       "topic": "학교"
     },
     {
+      "no": "453",
+      "en": "And in this regard, as well as in other regards this consideration is important.",
+      "topic": "기타"
+    },
+    {
       "no": "454",
       "en": "Apple is expected to announce several new products this fall.",
       "topic": "기술"
@@ -400,6 +590,16 @@
       "no": "456",
       "en": "As for me, it is a strategy to go to judicial review.",
       "topic": "사회"
+    },
+    {
+      "no": "457",
+      "en": "Australian economy depends heavily on revenue from tourism and education.",
+      "topic": "경제"
+    },
+    {
+      "no": "458",
+      "en": "Books which are overdue will incur daily fine.",
+      "topic": "학교"
     },
     {
       "no": "459",
@@ -417,8 +617,23 @@
       "topic": "학교"
     },
     {
+      "no": "462",
+      "en": "Critics want the government to take this one stage further and ban the film together.",
+      "topic": "사회"
+    },
+    {
       "no": "463",
       "en": "Distance learning has become far more popular these days.",
+      "topic": "학교"
+    },
+    {
+      "no": "464",
+      "en": "Do analysts really think the producing energy is largely responsible for current environmental problems?",
+      "topic": "과학"
+    },
+    {
+      "no": "465",
+      "en": "Does the professor keep regular office hours?",
       "topic": "학교"
     },
     {
@@ -439,6 +654,11 @@
     {
       "no": "469",
       "en": "Environmentalism is a category in which universities are competing.",
+      "topic": "학교"
+    },
+    {
+      "no": "470",
+      "en": "Every year, students pass biology course easily.",
       "topic": "학교"
     },
     {
@@ -507,6 +727,11 @@
       "topic": "기타"
     },
     {
+      "no": "486",
+      "en": "I think it's a shame that some foreign language teachers were able to graduate from college without ever having studied with a native speaker.",
+      "topic": "학교"
+    },
+    {
       "no": "487",
       "en": "I think it's one of the best things I have done really.",
       "topic": "기타"
@@ -524,6 +749,11 @@
     {
       "no": "490",
       "en": "I would like to drastically decrease the amount of time it takes me to clean the house.",
+      "topic": "기타"
+    },
+    {
+      "no": "491",
+      "en": "I’m afraid Professor Jones didn’t suffer fools gladly.",
       "topic": "기타"
     },
     {
@@ -552,13 +782,28 @@
       "topic": "학교"
     },
     {
+      "no": "497",
+      "en": "If your parents come to visit you this semester, where will they stay?",
+      "topic": "기타"
+    },
+    {
       "no": "498",
       "en": "In English, the month of the year is always capitalized.",
       "topic": "기타"
     },
     {
+      "no": "499",
+      "en": "In Europe, the political pressure is similar regarding globalization.",
+      "topic": "사회"
+    },
+    {
       "no": "500",
       "en": "Despite the cold temperature, the sky is clear and blue.",
+      "topic": "기타"
+    },
+    {
+      "no": "501",
+      "en": "It is confidence and optimism that I now have.",
       "topic": "기타"
     },
     {
@@ -595,6 +840,11 @@
       "no": "508",
       "en": "Mary has nobody to talk with, but she doesn’t feel lonely.",
       "topic": "사회"
+    },
+    {
+      "no": "509",
+      "en": "Meteorology is a detailed study of earth’s atmosphere.",
+      "topic": "과학"
     },
     {
       "no": "510",
