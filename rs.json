@@ -7,6 +7,11 @@
       "topic": "학교"
     },
     {
+      "no": "148",
+      "en": "If you show your student card, you will get a discount.",
+      "topic": "학교"
+    },
+    {
       "no": "164",
       "en": "It is argued that students can learn more by collaborating rather than as individuals.",
       "topic": "학교"
@@ -65,6 +70,11 @@
       "no": "304",
       "en": "The library is downstairs in the east of the building.",
       "topic": "학교"
+    },
+    {
+      "no": "312",
+      "en": "Experts cannot agree on a single definition of intelligence.",
+      "topic": "과학"
     },
     {
       "no": "329",
@@ -152,6 +162,11 @@
       "topic": "기타"
     },
     {
+      "no": "450",
+      "en": "The professor took a year off to work on her book.",
+      "topic": "학교"
+    },
+    {
       "no": "455",
       "en": "Your son has a bad cold and is in the nurse's room.",
       "topic": "건강"
@@ -182,8 +197,38 @@
       "topic": "과학"
     },
     {
+      "no": "613",
+      "en": "The bus for London will leave 10 minutes later than planned.",
+      "topic": "기타"
+    },
+    {
+      "no": "656",
+      "en": "The literal output of this research is prolific and diverse.",
+      "topic": "과학"
+    },
+    {
+      "no": "686",
+      "en": "Digital scans of archived materials are provided for a small fee.",
+      "topic": "기술"
+    },
+    {
+      "no": "697",
+      "en": "We weren't able to agree on the appropriate independent variables.",
+      "topic": "과학"
+    },
+    {
+      "no": "715",
+      "en": "The campus library will be closed during the winter break.",
+      "topic": "학교"
+    },
+    {
       "no": "755",
       "en": "This Thursday is the last day for students to withdraw subjects without any penalty.",
+      "topic": "학교"
+    },
+    {
+      "no": "761",
+      "en": "You may not be allowed to read any books without the reading list.",
       "topic": "학교"
     },
     {
@@ -205,6 +250,11 @@
       "no": "934",
       "en": "Students from various backgrounds can achieve a variety of qualifications.",
       "topic": "학교"
+    },
+    {
+      "no": "1065",
+      "en": "At that time, people moved from towns to villages.",
+      "topic": "사회"
     },
     {
       "no": "1655",
@@ -430,6 +480,206 @@
       "no": "1700",
       "en": "The new tools are being tested by senior specialists.",
       "topic": "기술"
+    },
+    {
+      "no": "2171",
+      "en": "A balanced diet will help you study more effectively.",
+      "topic": "건강"
+    },
+    {
+      "no": "2172",
+      "en": "Our capacity to serve the community is a vital part of our role.",
+      "topic": "사회"
+    },
+    {
+      "no": "2173",
+      "en": "The university hosts a wide range of events both on and off campus.",
+      "topic": "학교"
+    },
+    {
+      "no": "2174",
+      "en": "I think that to raise the issue and to talk about it is great.",
+      "topic": "사회"
+    },
+    {
+      "no": "2175",
+      "en": "This will be the first art exhibition to be held by the university.",
+      "topic": "예술"
+    },
+    {
+      "no": "2176",
+      "en": "The assessment of this course will begin next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "2177",
+      "en": "Tomorrow's lecture has been canceled due to the power cut.",
+      "topic": "학교"
+    },
+    {
+      "no": "2228",
+      "en": "Today we have a guest speaker who is visiting from Canada.",
+      "topic": "학교"
+    },
+    {
+      "no": "2279",
+      "en": "The chemistry building is located near the entrance of the campus.",
+      "topic": "학교"
+    },
+    {
+      "no": "2280",
+      "en": "By logging in, you agree to all terms and conditions regarding your enrollment.",
+      "topic": "기술"
+    },
+    {
+      "no": "2281",
+      "en": "Compiling a bibliography can present a major challenge for some students.",
+      "topic": "학교"
+    },
+    {
+      "no": "2282",
+      "en": "Please read the article that was given out yesterday.",
+      "topic": "학교"
+    },
+    {
+      "no": "2283",
+      "en": "Please make sure you use the standard form of quotation.",
+      "topic": "학교"
+    },
+    {
+      "no": "2284",
+      "en": "Living in the twenty-first century is increasingly stressful.",
+      "topic": "사회"
+    },
+    {
+      "no": "2285",
+      "en": "Renewable energy sources are now used to produce electricity.",
+      "topic": "과학"
+    },
+    {
+      "no": "2286",
+      "en": "We have specially assigned staff to help you find appropriate work placements.",
+      "topic": "학교"
+    },
+    {
+      "no": "2287",
+      "en": "If you are worried about your work, you should see a study counselor.",
+      "topic": "학교"
+    },
+    {
+      "no": "2288",
+      "en": "Most of the student advisors are extremely helpful.",
+      "topic": "학교"
+    },
+    {
+      "no": "2289",
+      "en": "The office opens on Monday and Thursday following the freshman seminar.",
+      "topic": "학교"
+    },
+    {
+      "no": "2290",
+      "en": "Before submitting the paper, your thesis must be approved by your tutor.",
+      "topic": "학교"
+    },
+    {
+      "no": "2291",
+      "en": "There are lots of opportunities available for the student on campus.",
+      "topic": "학교"
+    },
+    {
+      "no": "2292",
+      "en": "Such behaviors are regarded as a deviation of the norm.",
+      "topic": "사회"
+    },
+    {
+      "no": "2293",
+      "en": "His particular interest is in the eighteenth-century French society.",
+      "topic": "기타"
+    },
+    {
+      "no": "2294",
+      "en": "None of the students found it difficult to get a job.",
+      "topic": "학교"
+    },
+    {
+      "no": "2295",
+      "en": "You have to submit the project by the end of the week.",
+      "topic": "학교"
+    },
+    {
+      "no": "2296",
+      "en": "It is expected that all students have their own laptops.",
+      "topic": "기술"
+    },
+    {
+      "no": "2298",
+      "en": "She has a small business about toys.",
+      "topic": "경제"
+    },
+    {
+      "no": "2299",
+      "en": "Students fear to write essays because they do not know how to do it.",
+      "topic": "학교"
+    },
+    {
+      "no": "2300",
+      "en": "Students must attend the safety course before entering the engineering workshop.",
+      "topic": "학교"
+    },
+    {
+      "no": "2301",
+      "en": "All students depend on their future.",
+      "topic": "학교"
+    },
+    {
+      "no": "2302",
+      "en": "Knowledge becomes a vital role in young generations.",
+      "topic": "사회"
+    },
+    {
+      "no": "2303",
+      "en": "There is a lot more about this topic on the university website.",
+      "topic": "학교"
+    },
+    {
+      "no": "2304",
+      "en": "The origin of psychology can be traced back to ancient Greece.",
+      "topic": "과학"
+    },
+    {
+      "no": "2305",
+      "en": "The graph shows the population growth in the last century.",
+      "topic": "사회"
+    },
+    {
+      "no": "2306",
+      "en": "The full list of undergraduate programs can be found on the website.",
+      "topic": "학교"
+    },
+    {
+      "no": "2307",
+      "en": "After considering all the options she decided to take risks.",
+      "topic": "기타"
+    },
+    {
+      "no": "2308",
+      "en": "There are many different religions across the world.",
+      "topic": "사회"
+    },
+    {
+      "no": "2309",
+      "en": "The energy that we absorb from food can help us prevent the cold and become warmer.",
+      "topic": "건강"
+    },
+    {
+      "no": "2362",
+      "en": "The result of the experiment indicates that further research is needed.",
+      "topic": "과학"
+    },
+    {
+      "no": "2363",
+      "en": "The study demonstrates a need for further research in this field.",
+      "topic": "과학"
     },
     {
       "no": "2364",
