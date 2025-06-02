@@ -112,6 +112,11 @@
       "topic": "기타"
     },
     {
+      "no": "370",
+      "en": "Each group should submit a rough outline of their project to their tutor.",
+      "topic": "학교"
+    },
+    {
       "no": "376",
       "en": "Passengers on the train should not put feet on the seat.",
       "topic": "기타"
@@ -167,6 +172,11 @@
       "topic": "학교"
     },
     {
+      "no": "451",
+      "en": "Accommodations on campus are limited but there are more options nearby.",
+      "topic": "학교"
+    },
+    {
       "no": "455",
       "en": "Your son has a bad cold and is in the nurse's room.",
       "topic": "건강"
@@ -217,9 +227,19 @@
       "topic": "과학"
     },
     {
+      "no": "714",
+      "en": "These developments are discussed in more depth in Chapter nine.",
+      "topic": "기타"
+    },
+    {
       "no": "715",
       "en": "The campus library will be closed during the winter break.",
       "topic": "학교"
+    },
+    {
+      "no": "723",
+      "en": "Many experts think that the world climate is changing.",
+      "topic": "과학"
     },
     {
       "no": "755",
@@ -237,9 +257,24 @@
       "topic": "기타"
     },
     {
+      "no": "800",
+      "en": "Tomorrow evening, there will be a panel discussion on sustainable development.",
+      "topic": "사회"
+    },
+    {
       "no": "846",
       "en": "I am glad that Professor Gordon just joined our faculty.",
       "topic": "학교"
+    },
+    {
+      "no": "860",
+      "en": "The first assignment is due on the fourteenth of September.",
+      "topic": "학교"
+    },
+    {
+      "no": "865",
+      "en": "The capacity of programming computers is expanding enormously every year.",
+      "topic": "기술"
     },
     {
       "no": "920",
@@ -480,6 +515,221 @@
       "no": "1700",
       "en": "The new tools are being tested by senior specialists.",
       "topic": "기술"
+    },
+    {
+      "no": "1702",
+      "en": "A company may have the same legal rights as a person.",
+      "topic": "경제"
+    },
+    {
+      "no": "1703",
+      "en": "This type of butterfly travels to a country with a warmer climate in winter.",
+      "topic": "과학"
+    },
+    {
+      "no": "1704",
+      "en": "This teaching method provides the opportunity for students to learn by completing tasks.",
+      "topic": "학교"
+    },
+    {
+      "no": "1705",
+      "en": "You are recommended to only use footnotes when they are necessary.",
+      "topic": "학교"
+    },
+    {
+      "no": "1706",
+      "en": "Becoming a good actor requires persistence and motivation.",
+      "topic": "예술"
+    },
+    {
+      "no": "1707",
+      "en": "Training covers a range of scenarios that an actor might encounter.",
+      "topic": "예술"
+    },
+    {
+      "no": "1708",
+      "en": "The percentage of respondents who knew that the earth circles the sun once each year remained essentially unchanged.",
+      "topic": "과학"
+    },
+    {
+      "no": "1709",
+      "en": "The information you need for this meeting is on the website.",
+      "topic": "기타"
+    },
+    {
+      "no": "1710",
+      "en": "The beggar was laughed at by the children.",
+      "topic": "사회"
+    },
+    {
+      "no": "1711",
+      "en": "The paper must be reviewed thoroughly and appropriately.",
+      "topic": "학교"
+    },
+    {
+      "no": "1712",
+      "en": "This office is for students who want to study abroad.",
+      "topic": "학교"
+    },
+    {
+      "no": "1794",
+      "en": "The program is for technical and scientific students.",
+      "topic": "학교"
+    },
+    {
+      "no": "1795",
+      "en": "The deadline of assignments is the fourth of February.",
+      "topic": "학교"
+    },
+    {
+      "no": "1840",
+      "en": "Extension is only available under special circumstances.",
+      "topic": "학교"
+    },
+    {
+      "no": "1861",
+      "en": "There are lots of opportunities to meet people in this course.",
+      "topic": "학교"
+    },
+    {
+      "no": "1862",
+      "en": "The bus right out in the front will take you to the station.",
+      "topic": "기타"
+    },
+    {
+      "no": "2143",
+      "en": "The cafeteria is open on Monday and Thursday.",
+      "topic": "학교"
+    },
+    {
+      "no": "2144",
+      "en": "Students can borrow this book for a maximum of one day.",
+      "topic": "학교"
+    },
+    {
+      "no": "2145",
+      "en": "The bibliography needs to be removed prior to the publication.",
+      "topic": "학교"
+    },
+    {
+      "no": "2146",
+      "en": "Eating a healthy breakfast can provide energy throughout the day.",
+      "topic": "건강"
+    },
+    {
+      "no": "2147",
+      "en": "The paper has the potential to transform life science.",
+      "topic": "과학"
+    },
+    {
+      "no": "2148",
+      "en": "Tuesday is the final day for students to submit their assignments without any penalty.",
+      "topic": "학교"
+    },
+    {
+      "no": "2149",
+      "en": "Please note, submission deadlines are only negotiable in exceptional circumstances.",
+      "topic": "학교"
+    },
+    {
+      "no": "2150",
+      "en": "Students who study overseas can significantly improve work chances.",
+      "topic": "학교"
+    },
+    {
+      "no": "2151",
+      "en": "Sleep is believed to play a critical role in storing memories.",
+      "topic": "건강"
+    },
+    {
+      "no": "2152",
+      "en": "The college operates on a system of continuous assessments.",
+      "topic": "학교"
+    },
+    {
+      "no": "2153",
+      "en": "Students’ papers should be about a current social issue.",
+      "topic": "학교"
+    },
+    {
+      "no": "2154",
+      "en": "The key findings seem to contradict our initial hypothesis.",
+      "topic": "과학"
+    },
+    {
+      "no": "2155",
+      "en": "All laboratory equipment will be provided in class.",
+      "topic": "학교"
+    },
+    {
+      "no": "2157",
+      "en": "Scientists have found all parts of science.",
+      "topic": "과학"
+    },
+    {
+      "no": "2158",
+      "en": "Key aspects of this investigative paradigm may prove useful in other spheres.",
+      "topic": "과학"
+    },
+    {
+      "no": "2159",
+      "en": "It's a great privilege to welcome our guest speaker to our college.",
+      "topic": "학교"
+    },
+    {
+      "no": "2160",
+      "en": "Animal behavior appears to contain both similar and distinct aspects to that of humans.",
+      "topic": "과학"
+    },
+    {
+      "no": "2161",
+      "en": "There is a fitness center next to the student union.",
+      "topic": "학교"
+    },
+    {
+      "no": "2162",
+      "en": "What's going on can help patients leave their fears at the door.",
+      "topic": "건강"
+    },
+    {
+      "no": "2163",
+      "en": "The professor plans to discuss issues in the news that reflect concepts taught in class.",
+      "topic": "학교"
+    },
+    {
+      "no": "2164",
+      "en": "I have lectures on Tuesday from nine o'clock until two o'clock.",
+      "topic": "학교"
+    },
+    {
+      "no": "2165",
+      "en": "Speaking one or more foreign languages will be useful in your career.",
+      "topic": "학교"
+    },
+    {
+      "no": "2166",
+      "en": "One of the first mass transit systems was located in France.",
+      "topic": "기타"
+    },
+    {
+      "no": "2167",
+      "en": "All the works you consult need to be mentioned in the bibliography.",
+      "topic": "학교"
+    },
+    {
+      "no": "2168",
+      "en": "Graduates from this course generally find jobs in the insurance industry.",
+      "topic": "경제"
+    },
+    {
+      "no": "2169",
+      "en": "The support and advice of lecturers within the department has been invaluable.",
+      "topic": "학교"
+    },
+    {
+      "no": "2170",
+      "en": "At the end of the day, people want to profit from return on their investment.",
+      "topic": "경제"
     },
     {
       "no": "2171",
