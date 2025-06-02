@@ -27,6 +27,16 @@
       "topic": "학교"
     },
     {
+      "no": "225",
+      "en": "The puppets do comedy routines and there is some terrific formation dancing.",
+      "topic": "예술"
+    },
+    {
+      "no": "243",
+      "en": "Only those who are over 18 years of age are eligible to open a bank account in our bank.",
+      "topic": "경제"
+    },
+    {
       "no": "245",
       "en": "If you want to sell your book, it must have a bibliography.",
       "topic": "기타"
@@ -102,6 +112,16 @@
       "topic": "기타"
     },
     {
+      "no": "350",
+      "en": "Opposition to the government tax policies is widespread across business sectors.",
+      "topic": "경제"
+    },
+    {
+      "no": "351",
+      "en": "Any textual references you make should be cited appropriately in the bibliography.",
+      "topic": "학교"
+    },
+    {
       "no": "357",
       "en": "The rising inflation rate indicates a decrease in demand for consumer products.",
       "topic": "경제"
@@ -167,8 +187,18 @@
       "topic": "기타"
     },
     {
+      "no": "431",
+      "en": "Critical literature theories broaden interpretation.",
+      "topic": "예술"
+    },
+    {
       "no": "433",
       "en": "The faculty staff are very approachable, helpful and extremely friendly.",
+      "topic": "학교"
+    },
+    {
+      "no": "445",
+      "en": "The students were instructed to submit their assignments before Friday.",
       "topic": "학교"
     },
     {
@@ -202,6 +232,11 @@
       "topic": "기술"
     },
     {
+      "no": "516",
+      "en": "Applicants for the course preferably have a degree in English or journalism.",
+      "topic": "학교"
+    },
+    {
       "no": "528",
       "en": "You need warm clothes for the winter.",
       "topic": "기타"
@@ -217,6 +252,11 @@
       "topic": "학교"
     },
     {
+      "no": "569",
+      "en": "The health center is situated at the corner of the university behind the library.",
+      "topic": "건강"
+    },
+    {
       "no": "577",
       "en": "Safety glasses should be worn while doing experiments in the lab.",
       "topic": "과학"
@@ -227,9 +267,19 @@
       "topic": "기타"
     },
     {
+      "no": "640",
+      "en": "I would like an egg and tomatoes on white sandwich bread with orange juice.",
+      "topic": "기타"
+    },
+    {
       "no": "656",
       "en": "The literal output of this research is prolific and diverse.",
       "topic": "과학"
+    },
+    {
+      "no": "685",
+      "en": "The aim of the work presented could be formulated as follows.",
+      "topic": "기타"
     },
     {
       "no": "686",
@@ -240,6 +290,11 @@
       "no": "697",
       "en": "We weren't able to agree on the appropriate independent variables.",
       "topic": "과학"
+    },
+    {
+      "no": "710",
+      "en": "Students should take advantage of the internet before attending the lecture.",
+      "topic": "학교"
     },
     {
       "no": "714",
@@ -282,6 +337,11 @@
       "topic": "사회"
     },
     {
+      "no": "826",
+      "en": "The cafeteria closes soon but the snack machine is accessible throughout the night.",
+      "topic": "기타"
+    },
+    {
       "no": "827",
       "en": "We can meet in my office after the lecture.",
       "topic": "학교"
@@ -317,9 +377,19 @@
       "topic": "학교"
     },
     {
+      "no": "919",
+      "en": "The university supplies a number of scholarships for those who have specific goals.",
+      "topic": "학교"
+    },
+    {
       "no": "920",
       "en": "The company will arrange a taxi to meet you at the airport.",
       "topic": "기타"
+    },
+    {
+      "no": "931",
+      "en": "In English, the first letters of the months of the year are always capitalized.",
+      "topic": "학교"
     },
     {
       "no": "934",
@@ -332,14 +402,194 @@
       "topic": "기술"
     },
     {
+      "no": "961",
+      "en": "A thorough bibliography is needed at the end of every assignment.",
+      "topic": "학교"
+    },
+    {
+      "no": "963",
+      "en": "I'm glad you arrived here with safety.",
+      "topic": "기타"
+    },
+    {
+      "no": "964",
+      "en": "This is how we deliver healthcare to millions of people over the world.",
+      "topic": "건강"
+    },
+    {
+      "no": "965",
+      "en": "Robert Frost thinks the rural area is livable for people in New England.",
+      "topic": "기타"
+    },
+    {
+      "no": "966",
+      "en": "The geographic assignment should be submitted by the midday of Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "967",
+      "en": "All applications of internship are available in the office.",
+      "topic": "학교"
+    },
+    {
+      "no": "968",
+      "en": "Ideally, free trade is beneficial to both trading partners.",
+      "topic": "경제"
+    },
+    {
+      "no": "969",
+      "en": "The technician left the new microscope in the biology lab.",
+      "topic": "과학"
+    },
+    {
+      "no": "970",
+      "en": "We’re constantly looking for ways to bring industry and agriculture closer together.",
+      "topic": "경제"
+    },
+    {
       "no": "971",
       "en": "What is the most effective way of interaction between teachers and students in class?",
+      "topic": "학교"
+    },
+    {
+      "no": "973",
+      "en": "Companies' projects must adapt to the general data protection regulations.",
+      "topic": "기술"
+    },
+    {
+      "no": "974",
+      "en": "Being a vegan means not consuming any animal products.",
+      "topic": "건강"
+    },
+    {
+      "no": "975",
+      "en": "Students can download the lecture handouts from the course website.",
       "topic": "학교"
     },
     {
       "no": "976",
       "en": "Students will need to be in the lecture this Thursday.",
       "topic": "학교"
+    },
+    {
+      "no": "977",
+      "en": "When the demand for the course rose, university authorities took on additional academic staff.",
+      "topic": "학교"
+    },
+    {
+      "no": "978",
+      "en": "Please read the first five chapters to prepare for next week's tutorial.",
+      "topic": "학교"
+    },
+    {
+      "no": "979",
+      "en": "He was regarded as the foremost economist at that time.",
+      "topic": "경제"
+    },
+    {
+      "no": "980",
+      "en": "If you want to receive the reimbursement, you must submit the original receipts.",
+      "topic": "경제"
+    },
+    {
+      "no": "981",
+      "en": "Humans have the ability to mentally say over 700 words a minute.",
+      "topic": "기타"
+    },
+    {
+      "no": "982",
+      "en": "Companies are offering us all kinds of internet-connected devices.",
+      "topic": "기술"
+    },
+    {
+      "no": "983",
+      "en": "Did you know that to become more fluent, you need lots of practice?",
+      "topic": "기타"
+    },
+    {
+      "no": "984",
+      "en": "Some young people seem to be addicted to their cellphones.",
+      "topic": "사회"
+    },
+    {
+      "no": "985",
+      "en": "I think of those leaders who inspire us to go beyond the call of duty.",
+      "topic": "기타"
+    },
+    {
+      "no": "986",
+      "en": "The speaker mentioned two things that affect happiness.",
+      "topic": "기타"
+    },
+    {
+      "no": "988",
+      "en": "How can we inspire people and ourselves to be self-motivated?",
+      "topic": "기타"
+    },
+    {
+      "no": "989",
+      "en": "For human beings, breathing is a symbol of life.",
+      "topic": "기타"
+    },
+    {
+      "no": "991",
+      "en": "People tend to be least happy in middle age.",
+      "topic": "사회"
+    },
+    {
+      "no": "992",
+      "en": "We need to approach communication in an open way.",
+      "topic": "사회"
+    },
+    {
+      "no": "993",
+      "en": "When we are stressed, our skin releases a natural chemical, a hormone, that repels mosquitoes.",
+      "topic": "과학"
+    },
+    {
+      "no": "995",
+      "en": "My siblings and I were waiting for my mother to come back from the hospital.",
+      "topic": "기타"
+    },
+    {
+      "no": "996",
+      "en": "I think we can all agree that being fluent in two languages is a good thing.",
+      "topic": "기타"
+    },
+    {
+      "no": "997",
+      "en": "The burning of fossil fuels leads to pollution and global warming.",
+      "topic": "과학"
+    },
+    {
+      "no": "998",
+      "en": "Proficiency in a foreign language may be demonstrated by assessment.",
+      "topic": "학교"
+    },
+    {
+      "no": "999",
+      "en": "The library offers group study rooms, so you can work with other students.",
+      "topic": "학교"
+    },
+    {
+      "no": "1000",
+      "en": "Our tutorial will take place on the second floor in room one.",
+      "topic": "학교"
+    },
+    {
+      "no": "1001",
+      "en": "The book is informative but it could be accused of political bias.",
+      "topic": "사회"
+    },
+    {
+      "no": "1002",
+      "en": "It is necessary to solve the equation to determine the unknown variable.",
+      "topic": "과학"
+    },
+    {
+      "no": "1003",
+      "en": "Financial support can be offered to help pay your fees and other costs.",
+      "topic": "경제"
     },
     {
       "no": "1004",
