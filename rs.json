@@ -22,6 +22,11 @@
       "topic": "사회"
     },
     {
+      "no": "135",
+      "en": "All students on engineering courses spent one year working on the raw experience.",
+      "topic": "학교"
+    },
+    {
       "no": "148",
       "en": "If you show your student card, you will get a discount.",
       "topic": "학교"
@@ -132,6 +137,11 @@
       "topic": "기타"
     },
     {
+      "no": "349",
+      "en": "I expect a long and stagnant debate for a week or two on this issue.",
+      "topic": "사회"
+    },
+    {
       "no": "350",
       "en": "Opposition to the government tax policies is widespread across business sectors.",
       "topic": "경제"
@@ -140,6 +150,11 @@
       "no": "351",
       "en": "Any textual references you make should be cited appropriately in the bibliography.",
       "topic": "학교"
+    },
+    {
+      "no": "353",
+      "en": "You can pay using cash or a credit card.",
+      "topic": "경제"
     },
     {
       "no": "354",
@@ -317,6 +332,71 @@
       "topic": "과학"
     },
     {
+      "no": "672",
+      "en": "The website interface represents the stimuli that influence consumer's decision-making.",
+      "topic": "기술"
+    },
+    {
+      "no": "673",
+      "en": "This essay examined the use of computer in the science classroom.",
+      "topic": "학교"
+    },
+    {
+      "no": "674",
+      "en": "A science-based approach is vital for effective advancements.",
+      "topic": "과학"
+    },
+    {
+      "no": "675",
+      "en": "A key feature in drug development is examination of the pharmacological effects.",
+      "topic": "과학"
+    },
+    {
+      "no": "676",
+      "en": "This process has enabled the rational identification of core machinery.",
+      "topic": "기술"
+    },
+    {
+      "no": "677",
+      "en": "Cellular engineering strategies are highly desirable.",
+      "topic": "과학"
+    },
+    {
+      "no": "678",
+      "en": "There has been a rapid growth in the commercial market.",
+      "topic": "경제"
+    },
+    {
+      "no": "679",
+      "en": "Most of the strategies are in a preclinical state.",
+      "topic": "과학"
+    },
+    {
+      "no": "680",
+      "en": "The current and conventional method has many disadvantages including the side effects.",
+      "topic": "과학"
+    },
+    {
+      "no": "681",
+      "en": "Proteins constitute at least thirty percent of the total mass of all living organisms.",
+      "topic": "과학"
+    },
+    {
+      "no": "682",
+      "en": "Quantitative and temporal parameters of food consumption were used.",
+      "topic": "과학"
+    },
+    {
+      "no": "683",
+      "en": "We developed a method for evaluation of dynamic changes.",
+      "topic": "과학"
+    },
+    {
+      "no": "684",
+      "en": "Some methods for clinical applications have been presented as well.",
+      "topic": "과학"
+    },
+    {
       "no": "685",
       "en": "The aim of the work presented could be formulated as follows.",
       "topic": "기타"
@@ -327,9 +407,74 @@
       "topic": "기술"
     },
     {
+      "no": "687",
+      "en": "The politics combine both the legislative and the political authorities.",
+      "topic": "사회"
+    },
+    {
+      "no": "688",
+      "en": "All of our accommodations are within a walking distance to the academic buildings.",
+      "topic": "학교"
+    },
+    {
+      "no": "689",
+      "en": "The application form must be submitted before the end of term.",
+      "topic": "학교"
+    },
+    {
+      "no": "692",
+      "en": "Before choosing your university course, you should consider your career.",
+      "topic": "학교"
+    },
+    {
+      "no": "693",
+      "en": "The new drug will be tested in North America.",
+      "topic": "과학"
+    },
+    {
+      "no": "694",
+      "en": "Computer software has changed a lot since last year.",
+      "topic": "기술"
+    },
+    {
+      "no": "695",
+      "en": "Without doubt, his primary motive was economic growth.",
+      "topic": "경제"
+    },
+    {
+      "no": "696",
+      "en": "I've always been interested in biology and physics.",
+      "topic": "학교"
+    },
+    {
       "no": "697",
       "en": "We weren't able to agree on the appropriate independent variables.",
       "topic": "과학"
+    },
+    {
+      "no": "698",
+      "en": "To measure distance could take as much as three weeks.",
+      "topic": "과학"
+    },
+    {
+      "no": "699",
+      "en": "Please pass the handouts along to the rest of the people in your row.",
+      "topic": "학교"
+    },
+    {
+      "no": "700",
+      "en": "Your watch is fast, you need to reset it.",
+      "topic": "기술"
+    },
+    {
+      "no": "701",
+      "en": "The largest department in this university is history department.",
+      "topic": "학교"
+    },
+    {
+      "no": "702",
+      "en": "A computer virus has destroyed all my files.",
+      "topic": "기술"
     },
     {
       "no": "703",
@@ -337,8 +482,43 @@
       "topic": "기타"
     },
     {
+      "no": "704",
+      "en": "They say Professor James's lectures are always interesting and fun.",
+      "topic": "학교"
+    },
+    {
+      "no": "705",
+      "en": "The number of students registering for postgraduate research has risen.",
+      "topic": "학교"
+    },
+    {
+      "no": "706",
+      "en": "This semester we plan to specialize in education psychology.",
+      "topic": "학교"
+    },
+    {
+      "no": "708",
+      "en": "Please do not bring food into the classroom.",
+      "topic": "학교"
+    },
+    {
+      "no": "709",
+      "en": "You can find the student service center on level one of Home Building.",
+      "topic": "학교"
+    },
+    {
       "no": "710",
       "en": "Students should take advantage of the internet before attending the lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "711",
+      "en": "Most students in last year's course did well in this module.",
+      "topic": "학교"
+    },
+    {
+      "no": "712",
+      "en": "A study skill semester is on for the students who require assistance.",
       "topic": "학교"
     },
     {
@@ -357,9 +537,29 @@
       "topic": "학교"
     },
     {
+      "no": "716",
+      "en": "All necessary information is in the assignment.",
+      "topic": "학교"
+    },
+    {
+      "no": "717",
+      "en": "All undergraduate students should participate in the seminar.",
+      "topic": "학교"
+    },
+    {
+      "no": "718",
+      "en": "All students and staff have access to printers and scanners.",
+      "topic": "기술"
+    },
+    {
       "no": "719",
       "en": "Children are not allowed to be in the laboratory at any time.",
       "topic": "학교"
+    },
+    {
+      "no": "720",
+      "en": "Allergy problems do run in the family, but we don’t understand why.",
+      "topic": "건강"
     },
     {
       "no": "721",
@@ -367,14 +567,54 @@
       "topic": "경제"
     },
     {
+      "no": "722",
+      "en": "Anyone who has a problem with their accommodation should speak to the welfare officer.",
+      "topic": "사회"
+    },
+    {
       "no": "723",
       "en": "Many experts think that the world climate is changing.",
       "topic": "과학"
     },
     {
+      "no": "724",
+      "en": "Being a student representative on the union really cuts into my study time.",
+      "topic": "학교"
+    },
+    {
+      "no": "725",
+      "en": "Conferences are always scheduled on the third Wednesday of the month.",
+      "topic": "학교"
+    },
+    {
+      "no": "726",
+      "en": "Could you please pass the handouts to students in your row?",
+      "topic": "학교"
+    },
+    {
       "no": "728",
       "en": "Those reference books are too old, while the others are OK.",
       "topic": "학교"
+    },
+    {
+      "no": "729",
+      "en": "Doing this research makes me think of the purpose of science.",
+      "topic": "과학"
+    },
+    {
+      "no": "730",
+      "en": "Don’t forget to hand in your assignments by the end of next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "731",
+      "en": "Elephant is the largest land living mammal.",
+      "topic": "과학"
+    },
+    {
+      "no": "732",
+      "en": "Farmers do not always receive fair prices for agricultural goods.",
+      "topic": "경제"
     },
     {
       "no": "733",
@@ -610,6 +850,11 @@
       "no": "782",
       "en": "Nearly half of television outputs are given away for educational programs.",
       "topic": "사회"
+    },
+    {
+      "no": "783",
+      "en": "You can change your courses on the website during the registration period.",
+      "topic": "학교"
     },
     {
       "no": "784",
@@ -1059,6 +1304,11 @@
     {
       "no": "885",
       "en": "The theoretical proposal was challenging to grasp.",
+      "topic": "기타"
+    },
+    {
+      "no": "886",
+      "en": "Would you please put the materials on the table.",
       "topic": "기타"
     },
     {
