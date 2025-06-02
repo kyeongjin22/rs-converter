@@ -227,9 +227,69 @@
       "topic": "건강"
     },
     {
+      "no": "414",
+      "en": "After I graduated from college, I spent two years travelling around the world.",
+      "topic": "기타"
+    },
+    {
+      "no": "415",
+      "en": "She sold all her furniture, so she could afford to feed herself and her dog.",
+      "topic": "사회"
+    },
+    {
       "no": "416",
       "en": "Please keep the keys with you because the front door often locks automatically.",
       "topic": "기타"
+    },
+    {
+      "no": "417",
+      "en": "Interpreters are not readily available in this department.",
+      "topic": "기타"
+    },
+    {
+      "no": "418",
+      "en": "Our logbooks make up a five percent of total marks.",
+      "topic": "학교"
+    },
+    {
+      "no": "420",
+      "en": "I was overwhelmed with too much irrelevant information.",
+      "topic": "기타"
+    },
+    {
+      "no": "422",
+      "en": "Lecture theater is located on the ground floor of the building.",
+      "topic": "학교"
+    },
+    {
+      "no": "423",
+      "en": "Please prepare a PowerPoint presentation for tomorrow's meeting.",
+      "topic": "기타"
+    },
+    {
+      "no": "424",
+      "en": "People with an active lifestyle are less likely to die early or to have a major illness.",
+      "topic": "건강"
+    },
+    {
+      "no": "425",
+      "en": "She ate a sandwich and drank juice.",
+      "topic": "기타"
+    },
+    {
+      "no": "426",
+      "en": "The first person in space was from the Soviet Union.",
+      "topic": "과학"
+    },
+    {
+      "no": "427",
+      "en": "Few people now are skeptical about alternative power sources such as wind power.",
+      "topic": "과학"
+    },
+    {
+      "no": "430",
+      "en": "The chemistry exam results will be posted on the website.",
+      "topic": "학교"
     },
     {
       "no": "431",
@@ -239,6 +299,56 @@
     {
       "no": "433",
       "en": "The faculty staff are very approachable, helpful and extremely friendly.",
+      "topic": "학교"
+    },
+    {
+      "no": "434",
+      "en": "The program depends entirely on private funding.",
+      "topic": "경제"
+    },
+    {
+      "no": "435",
+      "en": "There will be open book exams on Monday the 28th.",
+      "topic": "학교"
+    },
+    {
+      "no": "436",
+      "en": "Traffic is very bad in the evening; therefore, we must leave early.",
+      "topic": "사회"
+    },
+    {
+      "no": "437",
+      "en": "Facebook is one of the most popular websites in the world today.",
+      "topic": "기술"
+    },
+    {
+      "no": "438",
+      "en": "We must not be discouraged by setbacks in life.",
+      "topic": "기타"
+    },
+    {
+      "no": "439",
+      "en": "Please go straight and turn left to reach the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "440",
+      "en": "In consultation with your supervisor, your thesis is approved by the faculty committee.",
+      "topic": "학교"
+    },
+    {
+      "no": "441",
+      "en": "Many health workers think that pensioners are too old to understand.",
+      "topic": "사회"
+    },
+    {
+      "no": "442",
+      "en": "Many students are so scared of writing essays, because they never learned how.",
+      "topic": "학교"
+    },
+    {
+      "no": "443",
+      "en": "Would you like to videotape our lecture?",
       "topic": "학교"
     },
     {
@@ -252,6 +362,16 @@
       "topic": "기타"
     },
     {
+      "no": "447",
+      "en": "The library is located at the other side of the campus behind the student center.",
+      "topic": "학교"
+    },
+    {
+      "no": "449",
+      "en": "A preliminary bibliography is due the week before the spring break.",
+      "topic": "학교"
+    },
+    {
       "no": "450",
       "en": "The professor took a year off to work on her book.",
       "topic": "학교"
@@ -262,9 +382,34 @@
       "topic": "학교"
     },
     {
+      "no": "452",
+      "en": "All the assignments are based on class discussion.",
+      "topic": "학교"
+    },
+    {
+      "no": "454",
+      "en": "Apple is expected to announce several new products this fall.",
+      "topic": "기술"
+    },
+    {
       "no": "455",
       "en": "Your son has a bad cold and is in the nurse's room.",
       "topic": "건강"
+    },
+    {
+      "no": "456",
+      "en": "As for me, it is a strategy to go to judicial review.",
+      "topic": "사회"
+    },
+    {
+      "no": "459",
+      "en": "Company software has changed a lot in the last year.",
+      "topic": "기술"
+    },
+    {
+      "no": "460",
+      "en": "Costs can be calculated once the critical path has been established.",
+      "topic": "경제"
     },
     {
       "no": "461",
@@ -272,9 +417,114 @@
       "topic": "학교"
     },
     {
+      "no": "463",
+      "en": "Distance learning has become far more popular these days.",
+      "topic": "학교"
+    },
+    {
+      "no": "466",
+      "en": "Answering such a complex question with a simple yes or no is absolutely impossible.",
+      "topic": "기타"
+    },
+    {
       "no": "467",
       "en": "I need somebody to fix the problem with the computer screen.",
       "topic": "기술"
+    },
+    {
+      "no": "468",
+      "en": "Electric cars are the future of transportation as they promise a cleaner environment.",
+      "topic": "과학"
+    },
+    {
+      "no": "469",
+      "en": "Environmentalism is a category in which universities are competing.",
+      "topic": "학교"
+    },
+    {
+      "no": "471",
+      "en": "Exam results will be available next week from the course office.",
+      "topic": "학교"
+    },
+    {
+      "no": "472",
+      "en": "Extra seminar's to be scheduled to assist you with revision.",
+      "topic": "학교"
+    },
+    {
+      "no": "473",
+      "en": "Factors such as cost and function influence the design of the bridge.",
+      "topic": "과학"
+    },
+    {
+      "no": "474",
+      "en": "Government policies, though tough, have been a blessing in disguise.",
+      "topic": "사회"
+    },
+    {
+      "no": "475",
+      "en": "He kept giving me suggestive looks.",
+      "topic": "기타"
+    },
+    {
+      "no": "476",
+      "en": "Here is only one example but there are lots of others.",
+      "topic": "기타"
+    },
+    {
+      "no": "477",
+      "en": "Humans need to use energy in order to exist.",
+      "topic": "과학"
+    },
+    {
+      "no": "479",
+      "en": "I didn’t understand the author’s point of view on immigration.",
+      "topic": "사회"
+    },
+    {
+      "no": "480",
+      "en": "I found a large rock and I broke through the basement window.",
+      "topic": "기타"
+    },
+    {
+      "no": "481",
+      "en": "I just want to let you know that I think you’re the most beautiful woman that I’ve ever seen.",
+      "topic": "기타"
+    },
+    {
+      "no": "482",
+      "en": "I know how to solve the problem, but I’ve been asked not to tell you.",
+      "topic": "기타"
+    },
+    {
+      "no": "483",
+      "en": "I missed yesterday’s lecture. Can I borrow your notes?",
+      "topic": "학교"
+    },
+    {
+      "no": "485",
+      "en": "I spoke to him in English, but I couldn’t make myself understood.",
+      "topic": "기타"
+    },
+    {
+      "no": "487",
+      "en": "I think it's one of the best things I have done really.",
+      "topic": "기타"
+    },
+    {
+      "no": "488",
+      "en": "I think we should get together over the weekend to discuss this assignment.",
+      "topic": "학교"
+    },
+    {
+      "no": "489",
+      "en": "I used to have a cup of coffee with one sugar.",
+      "topic": "기타"
+    },
+    {
+      "no": "490",
+      "en": "I would like to drastically decrease the amount of time it takes me to clean the house.",
+      "topic": "기타"
     },
     {
       "no": "492",
