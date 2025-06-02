@@ -167,6 +167,11 @@
       "topic": "기타"
     },
     {
+      "no": "433",
+      "en": "The faculty staff are very approachable, helpful and extremely friendly.",
+      "topic": "학교"
+    },
+    {
       "no": "446",
       "en": "The hotel is not far away from my apartment.",
       "topic": "기타"
@@ -247,6 +252,11 @@
       "topic": "학교"
     },
     {
+      "no": "719",
+      "en": "Children are not allowed to be in the laboratory at any time.",
+      "topic": "학교"
+    },
+    {
       "no": "723",
       "en": "Many experts think that the world climate is changing.",
       "topic": "과학"
@@ -272,6 +282,11 @@
       "topic": "사회"
     },
     {
+      "no": "827",
+      "en": "We can meet in my office after the lecture.",
+      "topic": "학교"
+    },
+    {
       "no": "846",
       "en": "I am glad that Professor Gordon just joined our faculty.",
       "topic": "학교"
@@ -282,9 +297,24 @@
       "topic": "학교"
     },
     {
+      "no": "863",
+      "en": "You need to read the chapter before the management class.",
+      "topic": "학교"
+    },
+    {
       "no": "865",
       "en": "The capacity of programming computers is expanding enormously every year.",
       "topic": "기술"
+    },
+    {
+      "no": "867",
+      "en": "The sports team members often practice on weekdays and play games on weekends.",
+      "topic": "학교"
+    },
+    {
+      "no": "902",
+      "en": "I would like the assignment to be less than 2,000 words.",
+      "topic": "학교"
     },
     {
       "no": "920",
@@ -297,13 +327,233 @@
       "topic": "학교"
     },
     {
+      "no": "935",
+      "en": "The development in the information technology has greatly changed the way people work.",
+      "topic": "기술"
+    },
+    {
+      "no": "971",
+      "en": "What is the most effective way of interaction between teachers and students in class?",
+      "topic": "학교"
+    },
+    {
       "no": "976",
       "en": "Students will need to be in the lecture this Thursday.",
       "topic": "학교"
     },
     {
+      "no": "1063",
+      "en": "An extra lecture is about to be scheduled at the end of this week to assist you with revision.",
+      "topic": "학교"
+    },
+    {
+      "no": "1064",
+      "en": "The quality of our accommodation is high, but it is still affordable for students.",
+      "topic": "학교"
+    },
+    {
       "no": "1065",
       "en": "At that time, people moved from towns to villages.",
+      "topic": "사회"
+    },
+    {
+      "no": "1066",
+      "en": "If you forget your password, you need to contact the student center.",
+      "topic": "기술"
+    },
+    {
+      "no": "1067",
+      "en": "The United States is the largest chocolate manufacturing country.",
+      "topic": "경제"
+    },
+    {
+      "no": "1068",
+      "en": "Biographical information should be removed prior to the publication of the results.",
+      "topic": "기타"
+    },
+    {
+      "no": "1069",
+      "en": "The course will be tested at the end of the semester.",
+      "topic": "학교"
+    },
+    {
+      "no": "1070",
+      "en": "I have a sandwich and milk for my breakfast.",
+      "topic": "기타"
+    },
+    {
+      "no": "1071",
+      "en": "Half of the marks in mathematics are allocated to the correct working.",
+      "topic": "학교"
+    },
+    {
+      "no": "1072",
+      "en": "You should include your name and identity number in the registration form.",
+      "topic": "기타"
+    },
+    {
+      "no": "1073",
+      "en": "Good research presents many benefits to the real people.",
+      "topic": "과학"
+    },
+    {
+      "no": "1074",
+      "en": "Today, I'd like to talk a little bit about the other theories that can explain the variations in climate.",
+      "topic": "과학"
+    },
+    {
+      "no": "1075",
+      "en": "The library is located on the north side of the campus.",
+      "topic": "학교"
+    },
+    {
+      "no": "1076",
+      "en": "We must take great care when analyzing the data.",
+      "topic": "과학"
+    },
+    {
+      "no": "1077",
+      "en": "Experience would be an advantage for this managerial role.",
+      "topic": "경제"
+    },
+    {
+      "no": "1078",
+      "en": "The light can be seen as waves or particles.",
+      "topic": "과학"
+    },
+    {
+      "no": "1079",
+      "en": "This framework could allow us to pose further research questions more systematically.",
+      "topic": "과학"
+    },
+    {
+      "no": "1080",
+      "en": "It is clear that the effects of climate change will damage the world economy.",
+      "topic": "경제"
+    },
+    {
+      "no": "1081",
+      "en": "Major sports on campus include rugby, soccer and tennis.",
+      "topic": "학교"
+    },
+    {
+      "no": "1082",
+      "en": "Presentation skills are important to both universities and workplaces.",
+      "topic": "학교"
+    },
+    {
+      "no": "1083",
+      "en": "There is too much information on this topic.",
+      "topic": "기타"
+    },
+    {
+      "no": "1084",
+      "en": "Until you complete the form, you cannot attend.",
+      "topic": "기타"
+    },
+    {
+      "no": "1085",
+      "en": "Everyone should get access to art galleries no matter where they live.",
+      "topic": "예술"
+    },
+    {
+      "no": "1086",
+      "en": "Many industries have moved to the countryside where manufacturing costs are lower.",
+      "topic": "경제"
+    },
+    {
+      "no": "1087",
+      "en": "We should focus on innovation, and if we don’t, we are bound to lose out.",
+      "topic": "기술"
+    },
+    {
+      "no": "1088",
+      "en": "Tuesday sessions will last for approximately two hours.",
+      "topic": "학교"
+    },
+    {
+      "no": "1089",
+      "en": "Please don't forget to check your email for the updates of the week.",
+      "topic": "기술"
+    },
+    {
+      "no": "1090",
+      "en": "Parking permits can be collected through the student service office.",
+      "topic": "기타"
+    },
+    {
+      "no": "1091",
+      "en": "We have three distinctive libraries which are nationally acclaimed.",
+      "topic": "학교"
+    },
+    {
+      "no": "1092",
+      "en": "Students have the options to live in college residences or apartments.",
+      "topic": "학교"
+    },
+    {
+      "no": "1093",
+      "en": "The gap between the rich and the poor does not decrease.",
+      "topic": "사회"
+    },
+    {
+      "no": "1095",
+      "en": "Australia is the first AIDS-free country in the world.",
+      "topic": "건강"
+    },
+    {
+      "no": "1096",
+      "en": "It is very important to wear masks during this pandemic.",
+      "topic": "건강"
+    },
+    {
+      "no": "1097",
+      "en": "If you need help let me know because I am here.",
+      "topic": "기타"
+    },
+    {
+      "no": "1098",
+      "en": "Car permits are available to students and staff.",
+      "topic": "기타"
+    },
+    {
+      "no": "1100",
+      "en": "You cannot leave the examination center until you complete the form.",
+      "topic": "학교"
+    },
+    {
+      "no": "1101",
+      "en": "Cells are the basic building blocks of all animals and plants.",
+      "topic": "과학"
+    },
+    {
+      "no": "1102",
+      "en": "Services are rapidly growing in parts of the global economy.",
+      "topic": "경제"
+    },
+    {
+      "no": "1103",
+      "en": "Exercise is important for mental and physical health.",
+      "topic": "건강"
+    },
+    {
+      "no": "1104",
+      "en": "Global warming is a threat to economic growth.",
+      "topic": "경제"
+    },
+    {
+      "no": "1105",
+      "en": "It is quite clear that further research is required.",
+      "topic": "과학"
+    },
+    {
+      "no": "1106",
+      "en": "I was young and inexperienced and going too fast in wet weather.",
+      "topic": "기타"
+    },
+    {
+      "no": "1107",
+      "en": "We all know there are more important things in life than the rat race.",
       "topic": "사회"
     },
     {
