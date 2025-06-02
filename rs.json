@@ -372,9 +372,99 @@
       "topic": "학교"
     },
     {
+      "no": "887",
+      "en": "Essays with few or no citations will raise the concern of the lecturers.",
+      "topic": "학교"
+    },
+    {
+      "no": "900",
+      "en": "Since the problems we face are global, we need to find the global solutions.",
+      "topic": "사회"
+    },
+    {
+      "no": "901",
+      "en": "Arteries carry oxygenated blood from the heart to other parts of the body.",
+      "topic": "과학"
+    },
+    {
       "no": "902",
       "en": "I would like the assignment to be less than 2,000 words.",
       "topic": "학교"
+    },
+    {
+      "no": "903",
+      "en": "In eighteen thirty, periodicals appeared in large numbers in America.",
+      "topic": "기타"
+    },
+    {
+      "no": "904",
+      "en": "Fishing is a sport and a means for surviving.",
+      "topic": "기타"
+    },
+    {
+      "no": "905",
+      "en": "To answer such a complex question with a simple yes or no is absolutely impossible.",
+      "topic": "기타"
+    },
+    {
+      "no": "906",
+      "en": "If she doesn't speak the language, she's not going to sit around and wait for a translator.",
+      "topic": "기타"
+    },
+    {
+      "no": "907",
+      "en": "I don't like cheese and tomato sandwiches on white bread and orange juice.",
+      "topic": "기타"
+    },
+    {
+      "no": "908",
+      "en": "We are so dependent on the computer that we cannot live without it.",
+      "topic": "기술"
+    },
+    {
+      "no": "909",
+      "en": "The university has a number of travel scholarships that students can apply for.",
+      "topic": "학교"
+    },
+    {
+      "no": "910",
+      "en": "Children can share their lunch at around noon.",
+      "topic": "학교"
+    },
+    {
+      "no": "911",
+      "en": "Internet provides unusual opportunities for students and current events.",
+      "topic": "기술"
+    },
+    {
+      "no": "913",
+      "en": "The timetable for next term will be available next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "914",
+      "en": "The timetable for the new term will be available next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "915",
+      "en": "Newspapers across the world reported stories of presidents.",
+      "topic": "사회"
+    },
+    {
+      "no": "916",
+      "en": "His objection to including scientific evidence has brought a lot of criticisms to him.",
+      "topic": "과학"
+    },
+    {
+      "no": "917",
+      "en": "Anonymous behaviors can be identified without intervention.",
+      "topic": "기타"
+    },
+    {
+      "no": "918",
+      "en": "The number of bankruptcy skyrocketed in the third quarter.",
+      "topic": "경제"
     },
     {
       "no": "919",
@@ -387,9 +477,54 @@
       "topic": "기타"
     },
     {
+      "no": "922",
+      "en": "Unfortunately, their immune systems were not strong enough to fight off common earthly bacteria.",
+      "topic": "건강"
+    },
+    {
+      "no": "923",
+      "en": "It is just a feeling of having tried something new and succeeded.",
+      "topic": "기타"
+    },
+    {
+      "no": "924",
+      "en": "Lots of students had money and passports stolen especially at night.",
+      "topic": "사회"
+    },
+    {
+      "no": "925",
+      "en": "In the dark, before the dawn, the plane was assembled.",
+      "topic": "기타"
+    },
+    {
+      "no": "927",
+      "en": "The trip for the professional training will start soon, so pack the items before we leave.",
+      "topic": "기타"
+    },
+    {
+      "no": "929",
+      "en": "Negative discourse continues to be predominant in discussions about gender.",
+      "topic": "사회"
+    },
+    {
+      "no": "930",
+      "en": "In my free time, I would like to read current affairs and newspapers.",
+      "topic": "기타"
+    },
+    {
       "no": "931",
       "en": "In English, the first letters of the months of the year are always capitalized.",
       "topic": "학교"
+    },
+    {
+      "no": "932",
+      "en": "Most of the lectures begin promptly, so do not be late.",
+      "topic": "학교"
+    },
+    {
+      "no": "933",
+      "en": "Our capacity to respond to national needs will determine our ability to flourish.",
+      "topic": "사회"
     },
     {
       "no": "934",
@@ -400,6 +535,121 @@
       "no": "935",
       "en": "The development in the information technology has greatly changed the way people work.",
       "topic": "기술"
+    },
+    {
+      "no": "936",
+      "en": "I can give you a hand if you need help.",
+      "topic": "기타"
+    },
+    {
+      "no": "938",
+      "en": "In this library, the reserve collection of books can be borrowed for up to three hours.",
+      "topic": "학교"
+    },
+    {
+      "no": "939",
+      "en": "Is the hypothesis on black hole rendered moot as the explanation of astrophysics?",
+      "topic": "과학"
+    },
+    {
+      "no": "940",
+      "en": "It is clear that there is little accurate documentation in support of this claim.",
+      "topic": "기타"
+    },
+    {
+      "no": "941",
+      "en": "Most printers in the library are out of ink.",
+      "topic": "기술"
+    },
+    {
+      "no": "942",
+      "en": "Much of the evidence used has only recently become available.",
+      "topic": "기타"
+    },
+    {
+      "no": "943",
+      "en": "The bookstore is located on the main campus behind the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "944",
+      "en": "The lecture theater one is located on the ground floor of the Pack Building.",
+      "topic": "학교"
+    },
+    {
+      "no": "945",
+      "en": "The United States has developed a coffee culture in recent years.",
+      "topic": "사회"
+    },
+    {
+      "no": "946",
+      "en": "The university supplies a number of scholarships for qualified students.",
+      "topic": "학교"
+    },
+    {
+      "no": "948",
+      "en": "We are required to submit the assignment before Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "949",
+      "en": "You are required to submit the assignment before Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "950",
+      "en": "You can only choose one subject from biology and chemistry.",
+      "topic": "학교"
+    },
+    {
+      "no": "951",
+      "en": "You can pay by cash or using a credit card.",
+      "topic": "경제"
+    },
+    {
+      "no": "952",
+      "en": "You come with me, and the others just stay here.",
+      "topic": "기타"
+    },
+    {
+      "no": "953",
+      "en": "You must ensure you do not include too much irrelevant information.",
+      "topic": "기타"
+    },
+    {
+      "no": "954",
+      "en": "You should go to the reception to get your student card.",
+      "topic": "학교"
+    },
+    {
+      "no": "955",
+      "en": "Your tutor is there for help, so do ask if you don't understand anything.",
+      "topic": "학교"
+    },
+    {
+      "no": "956",
+      "en": "Scholarship applications must be handed in at the end of the month.",
+      "topic": "학교"
+    },
+    {
+      "no": "957",
+      "en": "My laptop has crashed and cannot save any file.",
+      "topic": "기술"
+    },
+    {
+      "no": "958",
+      "en": "The translator is not available in our department.",
+      "topic": "기타"
+    },
+    {
+      "no": "959",
+      "en": "Every living thing begins as a single cell.",
+      "topic": "과학"
+    },
+    {
+      "no": "960",
+      "en": "Contemporary critics dismissed his idea as eccentric.",
+      "topic": "예술"
     },
     {
       "no": "961",
