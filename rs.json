@@ -277,8 +277,153 @@
       "topic": "기술"
     },
     {
+      "no": "492",
+      "en": "I’m quite aware of my own inadequacies.",
+      "topic": "기타"
+    },
+    {
+      "no": "493",
+      "en": "I’m sorry for being late for today’s lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "494",
+      "en": "I’ve always been interested in biology and physics.",
+      "topic": "과학"
+    },
+    {
+      "no": "495",
+      "en": "If you are unable to complete the task in time, please notify me by email.",
+      "topic": "기타"
+    },
+    {
+      "no": "496",
+      "en": "If you forgot your student number, you should contact Jenny Brice.",
+      "topic": "학교"
+    },
+    {
+      "no": "498",
+      "en": "In English, the month of the year is always capitalized.",
+      "topic": "기타"
+    },
+    {
+      "no": "500",
+      "en": "Despite the cold temperature, the sky is clear and blue.",
+      "topic": "기타"
+    },
+    {
+      "no": "502",
+      "en": "It is important to take gender into account when discussing the figures.",
+      "topic": "사회"
+    },
+    {
+      "no": "503",
+      "en": "It is important to validate all assumptions before arriving at a conclusion.",
+      "topic": "기타"
+    },
+    {
+      "no": "504",
+      "en": "It is obligatory for companies to provide details of their industrial processes.",
+      "topic": "경제"
+    },
+    {
+      "no": "505",
+      "en": "It isn’t easy when it comes to the definition of this word.",
+      "topic": "기타"
+    },
+    {
+      "no": "506",
+      "en": "John went rushing off down the corridor.",
+      "topic": "기타"
+    },
+    {
+      "no": "507",
+      "en": "Many privately owned firms have been eaten up by larger corporations.",
+      "topic": "경제"
+    },
+    {
+      "no": "508",
+      "en": "Mary has nobody to talk with, but she doesn’t feel lonely.",
+      "topic": "사회"
+    },
+    {
+      "no": "510",
+      "en": "Most of these criticisms can be shown to be false.",
+      "topic": "기타"
+    },
+    {
+      "no": "511",
+      "en": "No more than four people can be in the lab at once.",
+      "topic": "학교"
+    },
+    {
+      "no": "512",
+      "en": "Of all the heating and cooling options, central heating is the best.",
+      "topic": "기타"
+    },
+    {
+      "no": "513",
+      "en": "Of course, you can also choose to have your grades emailed to you.",
+      "topic": "학교"
+    },
+    {
+      "no": "514",
+      "en": "On this project, you will be asked to work as a group of three.",
+      "topic": "학교"
+    },
+    {
+      "no": "515",
+      "en": "One of the salient features of academic writing is the tendency to use formal words.",
+      "topic": "학교"
+    },
+    {
       "no": "516",
       "en": "Applicants for the course preferably have a degree in English or journalism.",
+      "topic": "학교"
+    },
+    {
+      "no": "517",
+      "en": "She was always here, but today she is missed.",
+      "topic": "기타"
+    },
+    {
+      "no": "518",
+      "en": "Staying near the place of work saves precious hours every day.",
+      "topic": "사회"
+    },
+    {
+      "no": "519",
+      "en": "Students are not allowed to take journals out of the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "520",
+      "en": "Students must observe lab safety regulations at all times.",
+      "topic": "학교"
+    },
+    {
+      "no": "522",
+      "en": "Students will not be given credits for assignments submitted after the due date.",
+      "topic": "학교"
+    },
+    {
+      "no": "523",
+      "en": "Students with queries about this term's timetables must speak to the tutor immediately.",
+      "topic": "학교"
+    },
+    {
+      "no": "524",
+      "en": "Studies suggest there may be a correlation between educational achievement and family size.",
+      "topic": "학교"
+    },
+    {
+      "no": "525",
+      "en": "The agricultural sector in that country has been heavily subsidized.",
+      "topic": "경제"
+    },
+    {
+      "no": "526",
+      "en": "Parental expectations are a major cause of stress among students.",
       "topic": "학교"
     },
     {
@@ -292,8 +437,63 @@
       "topic": "기술"
     },
     {
+      "no": "530",
+      "en": "Quality of life is an important measure on which the cities are ranked.",
+      "topic": "사회"
+    },
+    {
+      "no": "531",
+      "en": "Scientists are getting closer to the answers of these questions.",
+      "topic": "과학"
+    },
+    {
+      "no": "532",
+      "en": "Several copies must be supplied to the university department to fulfil the requirement.",
+      "topic": "학교"
+    },
+    {
+      "no": "533",
+      "en": "Note-taking methods work greatly both on paper and digitally.",
+      "topic": "기술"
+    },
+    {
+      "no": "534",
+      "en": "The application form is available in the office.",
+      "topic": "기타"
+    },
+    {
       "no": "535",
       "en": "There is a pharmacy on campus near the store.",
+      "topic": "학교"
+    },
+    {
+      "no": "536",
+      "en": "The buildings looked lovely in the bright sunshine.",
+      "topic": "기타"
+    },
+    {
+      "no": "538",
+      "en": "The car he was riding crashed into a train.",
+      "topic": "기타"
+    },
+    {
+      "no": "539",
+      "en": "The chief executive reads several new books every month.",
+      "topic": "기타"
+    },
+    {
+      "no": "541",
+      "en": "The clear evidence between brain events and behavioral events is fascinating.",
+      "topic": "과학"
+    },
+    {
+      "no": "542",
+      "en": "The coffee is free for the university students on weekdays.",
+      "topic": "학교"
+    },
+    {
+      "no": "555",
+      "en": "The seminar will now take place once a week on Tuesday.",
       "topic": "학교"
     },
     {
@@ -307,6 +507,21 @@
       "topic": "학교"
     },
     {
+      "no": "563",
+      "en": "Vocabulary with a specific meaning is called jargon.",
+      "topic": "기타"
+    },
+    {
+      "no": "564",
+      "en": "Theories are based on practical examples, as discussed.",
+      "topic": "기타"
+    },
+    {
+      "no": "568",
+      "en": "There is varying plagiarism across different university departments.",
+      "topic": "학교"
+    },
+    {
       "no": "569",
       "en": "The health center is situated at the corner of the university behind the library.",
       "topic": "건강"
@@ -317,9 +532,44 @@
       "topic": "과학"
     },
     {
+      "no": "587",
+      "en": "When we think about communication we think about interaction.",
+      "topic": "기타"
+    },
+    {
+      "no": "593",
+      "en": "You must read the supplementary materials as the professor has a habit of asking questions from it.",
+      "topic": "학교"
+    },
+    {
+      "no": "597",
+      "en": "No crop responds more readily than careful husbandry and skillful cultivation.",
+      "topic": "과학"
+    },
+    {
+      "no": "599",
+      "en": "Colombia is a world-leading coffee exporter.",
+      "topic": "경제"
+    },
+    {
       "no": "601",
       "en": "Politicians can make better decisions if they listen to the public opinion.",
       "topic": "사회"
+    },
+    {
+      "no": "602",
+      "en": "Please write your name on the essay cover sheet.",
+      "topic": "학교"
+    },
+    {
+      "no": "605",
+      "en": "The seminar papers should be submitted in the main office which is located behind the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "606",
+      "en": "Most scientists believe that climate change threatens lives on the earth.",
+      "topic": "과학"
     },
     {
       "no": "613",
