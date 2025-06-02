@@ -2,6 +2,181 @@
   "date": "2025-06-02",
   "data": [
     {
+      "no": "115",
+      "en": "Students are not allowed to speak when they are in the examination hall.",
+      "topic": "학교"
+    },
+    {
+      "no": "164",
+      "en": "It is argued that students can learn more by collaborating rather than as individuals.",
+      "topic": "학교"
+    },
+    {
+      "no": "211",
+      "en": "They have enough work to keep them going.",
+      "topic": "기타"
+    },
+    {
+      "no": "216",
+      "en": "The competency of language in the assignment is to use more formal words.",
+      "topic": "학교"
+    },
+    {
+      "no": "245",
+      "en": "If you want to sell your book, it must have a bibliography.",
+      "topic": "기타"
+    },
+    {
+      "no": "249",
+      "en": "There are various approaches for plagiarism across different university departments.",
+      "topic": "학교"
+    },
+    {
+      "no": "278",
+      "en": "The investigation aims to find the stand of the problem.",
+      "topic": "기타"
+    },
+    {
+      "no": "279",
+      "en": "Would you pass me the textbook on that table?",
+      "topic": "학교"
+    },
+    {
+      "no": "281",
+      "en": "A study skill seminar is on for the students who require assistance.",
+      "topic": "학교"
+    },
+    {
+      "no": "282",
+      "en": "Your car can park in the building behind the medical center.",
+      "topic": "기타"
+    },
+    {
+      "no": "293",
+      "en": "This semester will be from October to January.",
+      "topic": "학교"
+    },
+    {
+      "no": "294",
+      "en": "If you have any questions in the exam, please raise your hands.",
+      "topic": "학교"
+    },
+    {
+      "no": "304",
+      "en": "The library is downstairs in the east of the building.",
+      "topic": "학교"
+    },
+    {
+      "no": "329",
+      "en": "You must wear a hard hat on the construction site.",
+      "topic": "기타"
+    },
+    {
+      "no": "337",
+      "en": "Items can be found on the bottom floor of the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "338",
+      "en": "The building will be closed and reopened next week.",
+      "topic": "기타"
+    },
+    {
+      "no": "340",
+      "en": "Globalization has been an overwhelming urbanization phenomenon.",
+      "topic": "사회"
+    },
+    {
+      "no": "343",
+      "en": "The restaurant is located next to the theater.",
+      "topic": "기타"
+    },
+    {
+      "no": "365",
+      "en": "If you need a part-time job, it should not interfere with your studies.",
+      "topic": "학교"
+    },
+    {
+      "no": "367",
+      "en": "If you like cooking, we can make supper together.",
+      "topic": "기타"
+    },
+    {
+      "no": "376",
+      "en": "Passengers on the train should not put feet on the seat.",
+      "topic": "기타"
+    },
+    {
+      "no": "377",
+      "en": "I make sure to prepare reports for my boss.",
+      "topic": "기타"
+    },
+    {
+      "no": "380",
+      "en": "The test shows that you know a lot about Canada.",
+      "topic": "기타"
+    },
+    {
+      "no": "381",
+      "en": "You need to pass the written exam before you can apply for the driver's license.",
+      "topic": "기타"
+    },
+    {
+      "no": "382",
+      "en": "You need to get a new photo for your driver's license.",
+      "topic": "기타"
+    },
+    {
+      "no": "385",
+      "en": "You can speak to the current students at the information sessions.",
+      "topic": "학교"
+    },
+    {
+      "no": "387",
+      "en": "Several people have applied for this position.",
+      "topic": "기타"
+    },
+    {
+      "no": "413",
+      "en": "If the doctor calls while I'm out, please leave a message.",
+      "topic": "건강"
+    },
+    {
+      "no": "416",
+      "en": "Please keep the keys with you because the front door often locks automatically.",
+      "topic": "기타"
+    },
+    {
+      "no": "446",
+      "en": "The hotel is not far away from my apartment.",
+      "topic": "기타"
+    },
+    {
+      "no": "455",
+      "en": "Your son has a bad cold and is in the nurse's room.",
+      "topic": "건강"
+    },
+    {
+      "no": "467",
+      "en": "I need somebody to fix the problem with the computer screen.",
+      "topic": "기술"
+    },
+    {
+      "no": "528",
+      "en": "You need warm clothes for the winter.",
+      "topic": "기타"
+    },
+    {
+      "no": "529",
+      "en": "Control systems in manufacturing require a high level of accuracy.",
+      "topic": "기술"
+    },
+    {
+      "no": "535",
+      "en": "There is a pharmacy on campus near the store.",
+      "topic": "학교"
+    },
+    {
       "no": "577",
       "en": "Safety glasses should be worn while doing experiments in the lab.",
       "topic": "과학"
@@ -25,6 +200,11 @@
       "no": "920",
       "en": "The company will arrange a taxi to meet you at the airport.",
       "topic": "기타"
+    },
+    {
+      "no": "934",
+      "en": "Students from various backgrounds can achieve a variety of qualifications.",
+      "topic": "학교"
     },
     {
       "no": "1655",
@@ -250,6 +430,76 @@
       "no": "1700",
       "en": "The new tools are being tested by senior specialists.",
       "topic": "기술"
+    },
+    {
+      "no": "2364",
+      "en": "Scientific beneficiary to space exploration is frequently questioned.",
+      "topic": "과학"
+    },
+    {
+      "no": "2854",
+      "en": "Try to get through it as soon as possible.",
+      "topic": "기타"
+    },
+    {
+      "no": "2855",
+      "en": "We often ask our students to get access to all sorts of services.",
+      "topic": "학교"
+    },
+    {
+      "no": "2856",
+      "en": "This program is running in partnership with a number of departments.",
+      "topic": "학교"
+    },
+    {
+      "no": "2857",
+      "en": "Your abstract should contain the empirical evidence of your research.",
+      "topic": "학교"
+    },
+    {
+      "no": "2858",
+      "en": "I haven't done a lot of work in this area.",
+      "topic": "기타"
+    },
+    {
+      "no": "2859",
+      "en": "The students are supposed to assemble in the seminar hall before the announcement.",
+      "topic": "학교"
+    },
+    {
+      "no": "2860",
+      "en": "You are not sure that you can skip the sessions for Wednesday.",
+      "topic": "학교"
+    },
+    {
+      "no": "2861",
+      "en": "Car park permits can be obtained at the student service center.",
+      "topic": "학교"
+    },
+    {
+      "no": "2862",
+      "en": "We will change the classroom because this one is too small.",
+      "topic": "학교"
+    },
+    {
+      "no": "2863",
+      "en": "Higher education means higher pay you will get.",
+      "topic": "경제"
+    },
+    {
+      "no": "2864",
+      "en": "If finance is a cause of concern, scholarships may be available.",
+      "topic": "학교"
+    },
+    {
+      "no": "2865",
+      "en": "Scientists are always asking the government for more money.",
+      "topic": "과학"
+    },
+    {
+      "no": "2866",
+      "en": "Students are allowed to bring dictionaries to the exam.",
+      "topic": "학교"
     }
   ]
 }
