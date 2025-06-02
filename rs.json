@@ -377,6 +377,81 @@
       "topic": "학교"
     },
     {
+      "no": "733",
+      "en": "I believe children should read aloud more.",
+      "topic": "교육"
+    },
+    {
+      "no": "734",
+      "en": "I didn’t attend yesterday’s lecture. Could I borrow your notes?",
+      "topic": "교육"
+    },
+    {
+      "no": "735",
+      "en": "I thought the mid-term exam was only worth half of our course grade.",
+      "topic": "교육"
+    },
+    {
+      "no": "736",
+      "en": "I will be in my office every day from ten to twelve.",
+      "topic": "기타"
+    },
+    {
+      "no": "737",
+      "en": "I will check again but I am pretty sure we are supposed to read chapter two.",
+      "topic": "교육"
+    },
+    {
+      "no": "738",
+      "en": "I’ve got a tutorial in an hour and I haven’t had any time to prepare for it.",
+      "topic": "교육"
+    },
+    {
+      "no": "739",
+      "en": "It's the words of common occurrence that have different referential value.",
+      "topic": "기타"
+    },
+    {
+      "no": "740",
+      "en": "It’s time to finalize the work before the Wednesday seminar.",
+      "topic": "교육"
+    },
+    {
+      "no": "742",
+      "en": "Many of the most popular courses are available online.",
+      "topic": "교육"
+    },
+    {
+      "no": "743",
+      "en": "Many of the urban poor lived in an extremely cramped condition.",
+      "topic": "사회"
+    },
+    {
+      "no": "744",
+      "en": "Meeting with tutors could be arranged for students who need additional help.",
+      "topic": "교육"
+    },
+    {
+      "no": "745",
+      "en": "More females than males graduated from universities last year.",
+      "topic": "교육"
+    },
+    {
+      "no": "746",
+      "en": "Most of the assignments should be submitted on the same day.",
+      "topic": "교육"
+    },
+    {
+      "no": "747",
+      "en": "Most university teaching takes place in lectures and seminars.",
+      "topic": "교육"
+    },
+    {
+      "no": "748",
+      "en": "Next time, we will discuss the influence of the media on public policy.",
+      "topic": "사회"
+    },
+    {
       "no": "749",
       "en": "The United States has the maximum production of chocolate.",
       "topic": "경제"
@@ -397,9 +472,34 @@
       "topic": "학교"
     },
     {
+      "no": "753",
+      "en": "Please finish all the reading chapters before the field trip.",
+      "topic": "교육"
+    },
+    {
+      "no": "754",
+      "en": "Students need to finish their assignments during the next four weeks.",
+      "topic": "교육"
+    },
+    {
       "no": "755",
       "en": "This Thursday is the last day for students to withdraw subjects without any penalty.",
       "topic": "학교"
+    },
+    {
+      "no": "756",
+      "en": "The residence hall is closed prior to the closing time of the academic building during the end of the semester.",
+      "topic": "교육"
+    },
+    {
+      "no": "758",
+      "en": "She used to be everywhere, but today she is missing.",
+      "topic": "기타"
+    },
+    {
+      "no": "759",
+      "en": "Sport is the main cause of traumatic brain injuries in the United States.",
+      "topic": "건강"
     },
     {
       "no": "761",
@@ -412,8 +512,23 @@
       "topic": "기타"
     },
     {
+      "no": "763",
+      "en": "Students can download the materials from the website.",
+      "topic": "교육"
+    },
+    {
       "no": "764",
       "en": "I used to have coffee with milk and one sugar.",
+      "topic": "기타"
+    },
+    {
+      "no": "765",
+      "en": "The aesthetic implications of this study have not yet been fully explored.",
+      "topic": "예술"
+    },
+    {
+      "no": "766",
+      "en": "The author expressed an idea that modern readers inevitably cannot accept.",
       "topic": "기타"
     },
     {
@@ -427,14 +542,69 @@
       "topic": "건강"
     },
     {
+      "no": "769",
+      "en": "The college welcomes students from all over the world.",
+      "topic": "교육"
+    },
+    {
+      "no": "770",
+      "en": "The contest includes both the land history and the human history.",
+      "topic": "기타"
+    },
+    {
+      "no": "771",
+      "en": "The country suffered a series of invasions by present-day Germany and Denmark.",
+      "topic": "역사"
+    },
+    {
+      "no": "772",
+      "en": "The course registration is open in early March for new students.",
+      "topic": "교육"
+    },
+    {
+      "no": "773",
+      "en": "The current statistical evidence indicates the need of further research.",
+      "topic": "과학"
+    },
+    {
+      "no": "774",
+      "en": "The date of the invention of the first clock was disputed among historians.",
+      "topic": "역사"
+    },
+    {
       "no": "775",
       "en": "Number the beakers and put them away until tomorrow.",
       "topic": "기타"
     },
     {
+      "no": "776",
+      "en": "The first few sentences of an essay should capture the readers' attention.",
+      "topic": "교육"
+    },
+    {
+      "no": "777",
+      "en": "The information on the internet is becoming more reliable.",
+      "topic": "기술"
+    },
+    {
+      "no": "778",
+      "en": "The inherent tension between these two features remains to be addressed.",
+      "topic": "기타"
+    },
+    {
+      "no": "779",
+      "en": "The lecture will deal with the influence of technology on music.",
+      "topic": "예술"
+    },
+    {
       "no": "780",
       "en": "The minimum mark for Distinction grade is no less than 75%.",
       "topic": "학교"
+    },
+    {
+      "no": "781",
+      "en": "The majority of the hardware we are using was built for a customer.",
+      "topic": "기술"
     },
     {
       "no": "782",
@@ -447,6 +617,16 @@
       "topic": "사회"
     },
     {
+      "no": "785",
+      "en": "The office opens on Mondays and Thursdays directly following the freshman seminar.",
+      "topic": "기타"
+    },
+    {
+      "no": "786",
+      "en": "The office said Dr. Smith will arrive later today.",
+      "topic": "기타"
+    },
+    {
       "no": "787",
       "en": "Essays with few or no citations will be regarded as invalid.",
       "topic": "학교"
@@ -457,9 +637,34 @@
       "topic": "사회"
     },
     {
+      "no": "789",
+      "en": "The recent study has thrown out the validity of the argument.",
+      "topic": "과학"
+    },
+    {
+      "no": "790",
+      "en": "The results will be available in the main course and online.",
+      "topic": "교육"
+    },
+    {
       "no": "791",
       "en": "The professor is going to discuss the conflict.",
       "topic": "학교"
+    },
+    {
+      "no": "792",
+      "en": "The visiting professor is going to give a lecture on geology.",
+      "topic": "교육"
+    },
+    {
+      "no": "793",
+      "en": "The wheelchair lift has been upgraded this month.",
+      "topic": "기술"
+    },
+    {
+      "no": "794",
+      "en": "There are lots of people competing for places in computer courses.",
+      "topic": "교육"
     },
     {
       "no": "795",
@@ -472,9 +677,44 @@
       "topic": "학교"
     },
     {
+      "no": "797",
+      "en": "This can be seen as the starting point of my discussion today.",
+      "topic": "기타"
+    },
+    {
+      "no": "798",
+      "en": "This year we are applying to use a different type of assessment on this module.",
+      "topic": "교육"
+    },
+    {
+      "no": "799",
+      "en": "To receive the reimbursement, you must keep the original receipts.",
+      "topic": "경제"
+    },
+    {
       "no": "800",
       "en": "Tomorrow evening, there will be a panel discussion on sustainable development.",
       "topic": "사회"
+    },
+    {
+      "no": "801",
+      "en": "We don’t teach the same way as we used to.",
+      "topic": "교육"
+    },
+    {
+      "no": "802",
+      "en": "We like people to write a case study, describing an organization they know.",
+      "topic": "교육"
+    },
+    {
+      "no": "804",
+      "en": "We offer a broad range of undergraduate and postgraduate courses.",
+      "topic": "교육"
+    },
+    {
+      "no": "805",
+      "en": "We’ve decided to ask you to write four short pieces of coursework this year.",
+      "topic": "교육"
     },
     {
       "no": "806",
@@ -485,6 +725,16 @@
       "no": "807",
       "en": "All sources of materials must be included in your bibliography.",
       "topic": "학교"
+    },
+    {
+      "no": "808",
+      "en": "You should include your name and identification number on the registration form.",
+      "topic": "기타"
+    },
+    {
+      "no": "809",
+      "en": "You will be less stressed if you are well prepared for the exam.",
+      "topic": "교육"
     },
     {
       "no": "810",
