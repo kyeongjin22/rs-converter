@@ -302,6 +302,11 @@
       "topic": "과학"
     },
     {
+      "no": "562",
+      "en": "The lecture management in Japan will take place in the week seven.",
+      "topic": "학교"
+    },
+    {
       "no": "569",
       "en": "The health center is situated at the corner of the university behind the library.",
       "topic": "건강"
@@ -312,8 +317,113 @@
       "topic": "과학"
     },
     {
+      "no": "601",
+      "en": "Politicians can make better decisions if they listen to the public opinion.",
+      "topic": "사회"
+    },
+    {
       "no": "613",
       "en": "The bus for London will leave 10 minutes later than planned.",
+      "topic": "기타"
+    },
+    {
+      "no": "615",
+      "en": "Once more under the pressure of economic necessity, practice outstripped theory.",
+      "topic": "경제"
+    },
+    {
+      "no": "616",
+      "en": "Hypothetically, insufficient mastery in the areas slows future progress.",
+      "topic": "기타"
+    },
+    {
+      "no": "617",
+      "en": "Research has found that there is no correlation between diet and intelligence.",
+      "topic": "건강"
+    },
+    {
+      "no": "618",
+      "en": "Please explain what the author means by sustainability.",
+      "topic": "기타"
+    },
+    {
+      "no": "619",
+      "en": "Students are not allowed to take the journal out of the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "621",
+      "en": "You can retake the module if your marks are too low.",
+      "topic": "학교"
+    },
+    {
+      "no": "622",
+      "en": "Hemoglobin carries oxygen from lungs to other parts of the body.",
+      "topic": "과학"
+    },
+    {
+      "no": "623",
+      "en": "But they haven't come to widespread use yet.",
+      "topic": "기술"
+    },
+    {
+      "no": "625",
+      "en": "There is a limited amount of departmental funding which is available for qualified students.",
+      "topic": "학교"
+    },
+    {
+      "no": "626",
+      "en": "The chemistry building is still open during vacation.",
+      "topic": "학교"
+    },
+    {
+      "no": "627",
+      "en": "During that period, heavy industry grew rapidly in the north of the country.",
+      "topic": "경제"
+    },
+    {
+      "no": "628",
+      "en": "Tomorrow's lunchtime seminar on nuclear engineering has been postponed.",
+      "topic": "학교"
+    },
+    {
+      "no": "629",
+      "en": "It's important to keep this medicine in the fridge.",
+      "topic": "건강"
+    },
+    {
+      "no": "630",
+      "en": "His academic supervisor called in to see him last night.",
+      "topic": "학교"
+    },
+    {
+      "no": "632",
+      "en": "She doesn't even care about anything but what is honest and true.",
+      "topic": "기타"
+    },
+    {
+      "no": "633",
+      "en": "This session is not supported by documentation.",
+      "topic": "기타"
+    },
+    {
+      "no": "635",
+      "en": "The study of archeology requires intensive international fieldwork.",
+      "topic": "과학"
+    },
+    {
+      "no": "636",
+      "en": "That country's economy is primarily based on tourism.",
+      "topic": "경제"
+    },
+    {
+      "no": "637",
+      "en": "Leading scientists speculate that numerous planets could support life forms.",
+      "topic": "과학"
+    },
+    {
+      "no": "639",
+      "en": "He is almost never in his office.",
       "topic": "기타"
     },
     {
@@ -322,14 +432,149 @@
       "topic": "기타"
     },
     {
+      "no": "641",
+      "en": "You must go to the reception to pick up your student card.",
+      "topic": "학교"
+    },
+    {
+      "no": "642",
+      "en": "Chapter one provides the historical background to the topic.",
+      "topic": "학교"
+    },
+    {
+      "no": "643",
+      "en": "Storytelling is a common teaching technique in many countries.",
+      "topic": "학교"
+    },
+    {
+      "no": "644",
+      "en": "Folktales are passed orally from generation to generation.",
+      "topic": "예술"
+    },
+    {
+      "no": "645",
+      "en": "In the 1830s, periodicals appeared in large numbers in America.",
+      "topic": "기타"
+    },
+    {
       "no": "646",
       "en": "His lecture is always useful and stimulated.",
       "topic": "학교"
     },
     {
+      "no": "647",
+      "en": "The US ranks twenty-second in foreign aid, given it as a percentage of GDP.",
+      "topic": "경제"
+    },
+    {
+      "no": "648",
+      "en": "Meeting with mentors can be scheduled for students who require additional support.",
+      "topic": "학교"
+    },
+    {
+      "no": "649",
+      "en": "I am pleased to report that many topics have been involved in this lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "650",
+      "en": "Students who selected two to three courses may need an extension.",
+      "topic": "학교"
+    },
+    {
+      "no": "651",
+      "en": "You need to be careful when quoting Internet sources.",
+      "topic": "기술"
+    },
+    {
+      "no": "652",
+      "en": "One of the hardest things about starting university is finding your way around.",
+      "topic": "학교"
+    },
+    {
+      "no": "653",
+      "en": "The new professor used to work in a world bank.",
+      "topic": "학교"
+    },
+    {
+      "no": "654",
+      "en": "Many medical volunteers no longer have access to medical literature.",
+      "topic": "건강"
+    },
+    {
+      "no": "655",
+      "en": "In the past, people ate very different food.",
+      "topic": "기타"
+    },
+    {
       "no": "656",
       "en": "The literal output of this research is prolific and diverse.",
       "topic": "과학"
+    },
+    {
+      "no": "657",
+      "en": "During the second term, you are supposed to submit one essay per week.",
+      "topic": "학교"
+    },
+    {
+      "no": "658",
+      "en": "It provides an opportunity to work with other disciplines.",
+      "topic": "학교"
+    },
+    {
+      "no": "659",
+      "en": "Student discount cards can be used on campus in the coffeehouse.",
+      "topic": "학교"
+    },
+    {
+      "no": "661",
+      "en": "In our campus, prospective students had access to thirteen college libraries.",
+      "topic": "학교"
+    },
+    {
+      "no": "662",
+      "en": "A lot of people who have up until now been spending money in having a good time now need to be more careful with their money.",
+      "topic": "경제"
+    },
+    {
+      "no": "663",
+      "en": "What distinguishes him from others is his dramatic use of black and white photography.",
+      "topic": "예술"
+    },
+    {
+      "no": "664",
+      "en": "Our university has strong partnerships with industry as well as collaborative relationships with government bodies.",
+      "topic": "학교"
+    },
+    {
+      "no": "665",
+      "en": "Number the beakers and put them away.",
+      "topic": "기타"
+    },
+    {
+      "no": "666",
+      "en": "We would like a first draft of the assignment on Monday.",
+      "topic": "학교"
+    },
+    {
+      "no": "667",
+      "en": "The problem with this is that it fails to answer the basic question.",
+      "topic": "기타"
+    },
+    {
+      "no": "668",
+      "en": "The gap between the rich and the poor did not decrease rapidly as expected.",
+      "topic": "경제"
+    },
+    {
+      "no": "669",
+      "en": "In marketing, short-term thinking leads to many problems.",
+      "topic": "경제"
+    },
+    {
+      "no": "671",
+      "en": "Participants were not performing an actual purchase.",
+      "topic": "경제"
     },
     {
       "no": "672",
