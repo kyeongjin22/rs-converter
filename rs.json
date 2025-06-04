@@ -1552,6 +1552,11 @@
       "topic": "과학"
     },
     {
+      "no": "313",
+      "en": "All essays and seminar papers submitted must be emailed to your tutor.",
+      "topic": "학교"
+    },
+    {
       "no": "314",
       "en": "They were struggling to pay their fees last year.",
       "topic": "경제"
@@ -2672,14 +2677,89 @@
       "topic": "학교"
     },
     {
+      "no": "543",
+      "en": "The fertile plains in the east of the region provide excellent land for farming.",
+      "topic": "기타"
+    },
+    {
+      "no": "544",
+      "en": "The latest version of the operating system has many flaws.",
+      "topic": "기술"
+    },
+    {
+      "no": "545",
+      "en": "The law library is closed on Sundays and public holidays.",
+      "topic": "학교"
+    },
+    {
+      "no": "546",
+      "en": "The lecture tomorrow will discuss the educational policies in the United States.",
+      "topic": "학교"
+    },
+    {
+      "no": "547",
+      "en": "The opposition has so far been unresponsive to our proposal.",
+      "topic": "사회"
+    },
+    {
+      "no": "548",
+      "en": "The pharmacy was closed when I went past this morning.",
+      "topic": "건강"
+    },
+    {
+      "no": "550",
+      "en": "The Psychology Department is looking for volunteers to be involved in research projects.",
+      "topic": "학교"
+    },
+    {
+      "no": "551",
+      "en": "The purpose is to build new houses for local people.",
+      "topic": "사회"
+    },
+    {
+      "no": "552",
+      "en": "The research paper should begin with a thorough review of the literature.",
+      "topic": "학교"
+    },
+    {
+      "no": "553",
+      "en": "The School of Arts and Design has an open day on Thursday next week.",
+      "topic": "학교"
+    },
+    {
+      "no": "554",
+      "en": "The seminar on writing skills has been cancelled.",
+      "topic": "학교"
+    },
+    {
       "no": "555",
       "en": "The seminar will now take place once a week on Tuesday.",
       "topic": "학교"
     },
     {
+      "no": "556",
+      "en": "The smart city is an idea that has captured the imagination of governments all over the world.",
+      "topic": "기술"
+    },
+    {
       "no": "557",
       "en": "It seems that language appears from nowhere.",
       "topic": "과학"
+    },
+    {
+      "no": "558",
+      "en": "The thoughts never cross my mind.",
+      "topic": "기타"
+    },
+    {
+      "no": "560",
+      "en": "The tutorial is held on the 8th of April.",
+      "topic": "학교"
+    },
+    {
+      "no": "561",
+      "en": "The university is dedicated to providing quality education to all students.",
+      "topic": "학교"
     },
     {
       "no": "562",
@@ -2697,6 +2777,16 @@
       "topic": "기타"
     },
     {
+      "no": "566",
+      "en": "There is little evidence available to contradict his viewpoints.",
+      "topic": "기타"
+    },
+    {
+      "no": "567",
+      "en": "There is no entrance fee for tonight’s lecture.",
+      "topic": "학교"
+    },
+    {
       "no": "568",
       "en": "There is varying plagiarism across different university departments.",
       "topic": "학교"
@@ -2707,9 +2797,74 @@
       "topic": "건강"
     },
     {
+      "no": "570",
+      "en": "There will be a guest lecturer visiting the psychology department next month.",
+      "topic": "학교"
+    },
+    {
+      "no": "571",
+      "en": "There will be ample opportunities to ask questions about the presentation.",
+      "topic": "학교"
+    },
+    {
+      "no": "572",
+      "en": "There's an hourly bus service from the campus into town.",
+      "topic": "학교"
+    },
+    {
+      "no": "573",
+      "en": "This is the third time you’ve asked for an extension on this project.",
+      "topic": "학교"
+    },
+    {
+      "no": "574",
+      "en": "This lecture was meant to start at 10.",
+      "topic": "학교"
+    },
+    {
+      "no": "575",
+      "en": "This material is good for the next week's seminar.",
+      "topic": "학교"
+    },
+    {
+      "no": "576",
+      "en": "This module develops our understanding of the theory behind advertising campaigns.",
+      "topic": "학교"
+    },
+    {
       "no": "577",
       "en": "Safety glasses should be worn while doing experiments in the lab.",
       "topic": "과학"
+    },
+    {
+      "no": "579",
+      "en": "To improve the essay, I decided to include more direct quotes.",
+      "topic": "학교"
+    },
+    {
+      "no": "580",
+      "en": "Try to explain how your ideas are linked so that there is a logical flow.",
+      "topic": "학교"
+    },
+    {
+      "no": "581",
+      "en": "Tuesday’s lecture on social psychology will now take place in the central hall.",
+      "topic": "학교"
+    },
+    {
+      "no": "582",
+      "en": "Visual aids can make presentations clear and more interesting.",
+      "topic": "학교"
+    },
+    {
+      "no": "584",
+      "en": "We are delighted to have professor Robert to join our faculty.",
+      "topic": "학교"
+    },
+    {
+      "no": "586",
+      "en": "We need to hand in our assignments by the end of this week.",
+      "topic": "학교"
     },
     {
       "no": "587",
@@ -2717,8 +2872,48 @@
       "topic": "기타"
     },
     {
+      "no": "588",
+      "en": "Would you prepare some PowerPoint slides with appropriate graphs?",
+      "topic": "학교"
+    },
+    {
+      "no": "589",
+      "en": "You can find the student service desk located on the ground floor of the whole building.",
+      "topic": "학교"
+    },
+    {
+      "no": "590",
+      "en": "You are not permitted to take reference books out of the library.",
+      "topic": "학교"
+    },
+    {
+      "no": "591",
+      "en": "You don’t have to be on Professor Smith’s course to attend this lecture.",
+      "topic": "학교"
+    },
+    {
+      "no": "592",
+      "en": "You must complete this chapter before going to the field trip.",
+      "topic": "학교"
+    },
+    {
       "no": "593",
       "en": "You must read the supplementary materials as the professor has a habit of asking questions from it.",
+      "topic": "학교"
+    },
+    {
+      "no": "594",
+      "en": "You must take 3 core and 2 elective courses in this semester.",
+      "topic": "학교"
+    },
+    {
+      "no": "595",
+      "en": "You need to write a proposal for your research.",
+      "topic": "학교"
+    },
+    {
+      "no": "596",
+      "en": "You should raise your concern with the head of school.",
       "topic": "학교"
     },
     {
@@ -2727,9 +2922,19 @@
       "topic": "과학"
     },
     {
+      "no": "598",
+      "en": "The chief economist has radical ideas for the economy.",
+      "topic": "경제"
+    },
+    {
       "no": "599",
       "en": "Colombia is a world-leading coffee exporter.",
       "topic": "경제"
+    },
+    {
+      "no": "600",
+      "en": "If you have problems, please contact your tutor.",
+      "topic": "학교"
     },
     {
       "no": "601",
@@ -2742,6 +2947,16 @@
       "topic": "학교"
     },
     {
+      "no": "603",
+      "en": "The registration for courses is open for new students.",
+      "topic": "학교"
+    },
+    {
+      "no": "604",
+      "en": "The doctor was not here today.",
+      "topic": "건강"
+    },
+    {
       "no": "605",
       "en": "The seminar papers should be submitted in the main office which is located behind the library.",
       "topic": "학교"
@@ -2752,9 +2967,44 @@
       "topic": "과학"
     },
     {
+      "no": "607",
+      "en": "Does the college refectory offer vegetarian dishes on a daily basis?",
+      "topic": "학교"
+    },
+    {
+      "no": "608",
+      "en": "He was not the only one to call for legal reform in the 16th century.",
+      "topic": "사회"
+    },
+    {
+      "no": "609",
+      "en": "Our class is divided into two groups. You come with me, the others stay here.",
+      "topic": "학교"
+    },
+    {
+      "no": "610",
+      "en": "That brief outline takes us to the beginning of the 20th century.",
+      "topic": "기타"
+    },
+    {
+      "no": "611",
+      "en": "In our city, students have access to thirteen college libraries.",
+      "topic": "학교"
+    },
+    {
+      "no": "612",
+      "en": "You need to give a better example to support your argument.",
+      "topic": "학교"
+    },
+    {
       "no": "613",
       "en": "The bus for London will leave 10 minutes later than planned.",
       "topic": "기타"
+    },
+    {
+      "no": "614",
+      "en": "Please sort and order the presentation slides according to topic and speaking time.",
+      "topic": "학교"
     },
     {
       "no": "615",
