@@ -1,10 +1,20 @@
 {
-  "date": "2025-06-02",
+  "date": "2025-06-04",
   "data": [
     {
       "no": "35",
       "en": "You should enquire about the direct deposit.",
       "topic": "경제"
+    },
+    {
+      "no": "43",
+      "en": "Then we go for ones where we know there're guided tours, because this gives good focus for the visit.",
+      "topic": "기타"
+    },
+    {
+      "no": "49",
+      "en": "But we have confirmed the dates and planned the optional extra visits.",
+      "topic": "기타"
     },
     {
       "no": "103",
@@ -37,9 +47,94 @@
       "topic": "학교"
     },
     {
+      "no": "192",
+      "en": "The gallery has shown many Chinese paintings.",
+      "topic": "예술"
+    },
+    {
+      "no": "194",
+      "en": "Many of my friends say they want to leave home to study overseas but I wouldn't.",
+      "topic": "학교"
+    },
+    {
+      "no": "198",
+      "en": "The meeting will take place in the main auditorium.",
+      "topic": "기타"
+    },
+    {
+      "no": "201",
+      "en": "To start your visit, I'm just going to give you a brief account of the history of the museum.",
+      "topic": "기타"
+    },
+    {
+      "no": "202",
+      "en": "By the way, if you want more information about any of the trips, have a look in the student newspaper.",
+      "topic": "학교"
+    },
+    {
+      "no": "203",
+      "en": "In front of us is the car park, as you can see, and to the left, by the entry gate, is the Gift Shop.",
+      "topic": "기타"
+    },
+    {
+      "no": "204",
+      "en": "In the top left corner is the Grinding Shop, where the tools were sharpened and finished.",
+      "topic": "기타"
+    },
+    {
+      "no": "205",
+      "en": "Most teaching staff make their lecture notes available online.",
+      "topic": "학교"
+    },
+    {
+      "no": "206",
+      "en": "There will be a conference here next summer on using the web for academic research.",
+      "topic": "학교"
+    },
+    {
+      "no": "207",
+      "en": "Successful applicants will work with a large team of researchers.",
+      "topic": "기타"
+    },
+    {
+      "no": "208",
+      "en": "Higher numbers of patients were infected than in previous outbreaks of the illness.",
+      "topic": "건강"
+    },
+    {
+      "no": "209",
+      "en": "The final year will consist of four taught courses and one project.",
+      "topic": "학교"
+    },
+    {
+      "no": "210",
+      "en": "He started his tutorial presentation right on time.",
+      "topic": "학교"
+    },
+    {
       "no": "211",
       "en": "They have enough work to keep them going.",
       "topic": "기타"
+    },
+    {
+      "no": "212",
+      "en": "Newspapers are supported primarily by the sale of advertising space.",
+      "topic": "경제"
+    },
+    {
+      "no": "213",
+      "en": "Sydney is Australia's largest city, chief port and cultural center.",
+      "topic": "기타"
+    },
+    {
+      "no": "214",
+      "en": "I'm going to be late for my next class.",
+      "topic": "학교"
+    },
+    {
+      "no": "215",
+      "en": "And they might only breathe twice an hour.",
+      "topic": "과학"
     },
     {
       "no": "216",
@@ -47,13 +142,128 @@
       "topic": "학교"
     },
     {
+      "no": "217",
+      "en": "Modern Thanksgiving was first officially established in all states in 1863.",
+      "topic": "사회"
+    },
+    {
+      "no": "218",
+      "en": "The plan is to phase out all cars with internal combustion engines by 2050.",
+      "topic": "기술"
+    },
+    {
+      "no": "219",
+      "en": "And it's hard to take out the pollutants.",
+      "topic": "환경"
+    },
+    {
+      "no": "220",
+      "en": "Every car maker in Europe has been on the block, because of their dependence on diesel.",
+      "topic": "경제"
+    },
+    {
+      "no": "221",
+      "en": "English is expanding as a lingua-franca but not as a mother tongue.",
+      "topic": "사회"
+    },
+    {
+      "no": "222",
+      "en": "The future of English is in the hands of countries where non-native speakers live.",
+      "topic": "사회"
+    },
+    {
+      "no": "223",
+      "en": "This argument relies on huge advances in computer translation and speech recognition.",
+      "topic": "기술"
+    },
+    {
+      "no": "224",
+      "en": "An interesting feature of the show is that the performers are so young—the youngest is only fourteen.",
+      "topic": "예술"
+    },
+    {
       "no": "225",
       "en": "The puppets do comedy routines and there is some terrific formation dancing.",
       "topic": "예술"
     },
     {
+      "no": "226",
+      "en": "When going to Blue National Park, you cannot afford to miss the amazing wildlife.",
+      "topic": "기타"
+    },
+    {
+      "no": "227",
+      "en": "I know most of you come to the National Park for Mt. Field.",
+      "topic": "기타"
+    },
+    {
+      "no": "228",
+      "en": "The wheelchair-accessible trail to Russell Falls is the most popular track in the park.",
+      "topic": "기타"
+    },
+    {
+      "no": "229",
+      "en": "Change in the workplace can be quite tricky.",
+      "topic": "경제"
+    },
+    {
+      "no": "230",
+      "en": "And that creates difficult situations for people.",
+      "topic": "사회"
+    },
+    {
+      "no": "231",
+      "en": "During times of change they should be thinking not only about the strain on their staff.",
+      "topic": "경제"
+    },
+    {
+      "no": "232",
+      "en": "Today, we are going to move on to the next chapter: volcanoes.",
+      "topic": "과학"
+    },
+    {
+      "no": "233",
+      "en": "Volcanoes have played a key role in forming and modifying the earth.",
+      "topic": "과학"
+    },
+    {
+      "no": "234",
+      "en": "Most of American volcanoes are hidden under the seas.",
+      "topic": "과학"
+    },
+    {
+      "no": "235",
+      "en": "At night, sailors in the Mediterranean can see the glow from the fiery molten material that is thrown into the air.",
+      "topic": "과학"
+    },
+    {
+      "no": "236",
+      "en": "This office is highly associated with your academic life on campus.",
+      "topic": "학교"
+    },
+    {
+      "no": "237",
+      "en": "First of all, courses are listed on our website before registration.",
+      "topic": "학교"
+    },
+    {
+      "no": "238",
+      "en": "This is a chance to take a risk, try something new and something that you like.",
+      "topic": "기타"
+    },
+    {
+      "no": "239",
+      "en": "You should pre-select three to four courses that you are interested in taking.",
+      "topic": "학교"
+    },
+    {
       "no": "240",
       "en": "There is no guarantee that you will get your first choice.",
+      "topic": "기타"
+    },
+    {
+      "no": "241",
+      "en": "You must be willing to accept any of the choices you selected.",
       "topic": "기타"
     },
     {
@@ -67,6 +277,11 @@
       "topic": "경제"
     },
     {
+      "no": "244",
+      "en": "Enrollment in classes is supposed to be completed via the university records system.",
+      "topic": "학교"
+    },
+    {
       "no": "245",
       "en": "If you want to sell your book, it must have a bibliography.",
       "topic": "기타"
@@ -74,6 +289,11 @@
     {
       "no": "246",
       "en": "This brought about the tremendous change in the environment, with the sea level rising and creeping steadily inland.",
+      "topic": "과학"
+    },
+    {
+      "no": "247",
+      "en": "New shores were formed and totally different creatures would have been washed up onto the shores.",
       "topic": "과학"
     },
     {
@@ -114,6 +334,11 @@
     {
       "no": "255",
       "en": "Let's look at the economic costs first.",
+      "topic": "경제"
+    },
+    {
+      "no": "256",
+      "en": "Trade finance is an important part of the business.",
       "topic": "경제"
     },
     {
@@ -610,6 +835,11 @@
       "no": "357",
       "en": "The rising inflation rate indicates a decrease in demand for consumer products.",
       "topic": "경제"
+    },
+    {
+      "no": "358",
+      "en": "The initial results are intriguing, but statistically speaking, they are insignificant.",
+      "topic": "과학"
     },
     {
       "no": "359",
@@ -1197,6 +1427,11 @@
       "topic": "과학"
     },
     {
+      "no": "478",
+      "en": "I won't be able to attend the lecture because I have a doctor appointment.",
+      "topic": "건강"
+    },
+    {
       "no": "479",
       "en": "I didn’t understand the author’s point of view on immigration.",
       "topic": "사회"
@@ -1220,6 +1455,11 @@
       "no": "483",
       "en": "I missed yesterday’s lecture. Can I borrow your notes?",
       "topic": "학교"
+    },
+    {
+      "no": "484",
+      "en": "I need more quotations to back up my argument.",
+      "topic": "기타"
     },
     {
       "no": "485",
@@ -1402,6 +1642,11 @@
       "topic": "학교"
     },
     {
+      "no": "521",
+      "en": "Students should take advantage of the online resources before attending the lecture.",
+      "topic": "학교"
+    },
+    {
       "no": "522",
       "en": "Students will not be given credits for assignments submitted after the due date.",
       "topic": "학교"
@@ -1425,6 +1670,11 @@
       "no": "526",
       "en": "Parental expectations are a major cause of stress among students.",
       "topic": "학교"
+    },
+    {
+      "no": "527",
+      "en": "Physics is the subject of matter and energy.",
+      "topic": "과학"
     },
     {
       "no": "528",
