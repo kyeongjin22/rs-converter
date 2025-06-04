@@ -2,6 +2,11 @@
   "date": "2025-06-04",
   "data": [
     {
+      "no": "1",
+      "en": "Next time, we'll discuss the influence of the media on public policy.",
+      "topic": "사회"
+    },
+    {
       "no": "2",
       "en": "He would yell if he was interrupted while painting.",
       "topic": "예술"
@@ -12,6 +17,16 @@
       "topic": "학교"
     },
     {
+      "no": "4",
+      "en": "Market research surveys might be conducted by telephone, the internet, or in person.",
+      "topic": "경제"
+    },
+    {
+      "no": "5",
+      "en": "Usually, but not always, reviews provide an unbiased source of information.",
+      "topic": "기타"
+    },
+    {
       "no": "6",
       "en": "The research looked at neighborhood cooperative schemes, such as community gardens.",
       "topic": "사회"
@@ -19,6 +34,16 @@
     {
       "no": "7",
       "en": "Adverts might use humor, drama or catchy slogans to grab people's attention.",
+      "topic": "기타"
+    },
+    {
+      "no": "8",
+      "en": "When we talk, we use tones and expressions to understand each other.",
+      "topic": "사회"
+    },
+    {
+      "no": "9",
+      "en": "I've had a very happy childhood so I sometimes forget that others haven't.",
       "topic": "기타"
     },
     {
@@ -62,6 +87,21 @@
       "topic": "과학"
     },
     {
+      "no": "18",
+      "en": "It's important that people with responsible jobs get plenty of sleep.",
+      "topic": "건강"
+    },
+    {
+      "no": "19",
+      "en": "An increase in population will lead to fewer resources.",
+      "topic": "사회"
+    },
+    {
+      "no": "20",
+      "en": "Elderly people can sometimes lose their connection to society.",
+      "topic": "사회"
+    },
+    {
       "no": "21",
       "en": "My parents didn't have a good education so they were determined that I would.",
       "topic": "학교"
@@ -77,6 +117,11 @@
       "topic": "학교"
     },
     {
+      "no": "24",
+      "en": "But there's no context for the words we read.",
+      "topic": "기타"
+    },
+    {
       "no": "25",
       "en": "They can tutor other students who need help for the preparation of the course and the test.",
       "topic": "학교"
@@ -85,6 +130,11 @@
       "no": "26",
       "en": "The artist's early work was a good buy.",
       "topic": "예술"
+    },
+    {
+      "no": "27",
+      "en": "Feelings of nervousness are common among all university freshers.",
+      "topic": "학교"
     },
     {
       "no": "28",
@@ -137,6 +187,16 @@
       "topic": "사회"
     },
     {
+      "no": "38",
+      "en": "All too often people overeat without realizing it.",
+      "topic": "건강"
+    },
+    {
+      "no": "39",
+      "en": "There are on-going problems with over-consumption of junk food.",
+      "topic": "건강"
+    },
+    {
       "no": "40",
       "en": "Factors such as cost and function influence the design of a bridge.",
       "topic": "기술"
@@ -147,9 +207,19 @@
       "topic": "사회"
     },
     {
+      "no": "42",
+      "en": "He's shown an interest in exciting new art movements.",
+      "topic": "예술"
+    },
+    {
       "no": "43",
       "en": "Then we go for ones where we know there're guided tours, because this gives good focus for the visit.",
       "topic": "기타"
+    },
+    {
+      "no": "44",
+      "en": "Absolutely. I believe scientific development can be a positive thing.",
+      "topic": "과학"
     },
     {
       "no": "45",
@@ -162,6 +232,11 @@
       "topic": "기타"
     },
     {
+      "no": "47",
+      "en": "Here in this area, you shouldn't find any huge social problems nowadays.",
+      "topic": "사회"
+    },
+    {
       "no": "48",
       "en": "Street lighting allows people to walk home safely at night.",
       "topic": "사회"
@@ -170,6 +245,11 @@
       "no": "49",
       "en": "But we have confirmed the dates and planned the optional extra visits.",
       "topic": "기타"
+    },
+    {
+      "no": "50",
+      "en": "Advertisements need to appeal to people of different ages, socioeconomic backgrounds, and genders.",
+      "topic": "경제"
     },
     {
       "no": "51",
@@ -184,6 +264,11 @@
     {
       "no": "53",
       "en": "A new report outlines ways in which cities should address transport issues.",
+      "topic": "사회"
+    },
+    {
+      "no": "54",
+      "en": "Teenagers more than most age groups feel strong pressure to conform.",
       "topic": "사회"
     },
     {
@@ -202,9 +287,24 @@
       "topic": "학교"
     },
     {
+      "no": "59",
+      "en": "There are many good methods that can be used.",
+      "topic": "기타"
+    },
+    {
+      "no": "60",
+      "en": "Lack of sleep can lead to changes in behavior.",
+      "topic": "건강"
+    },
+    {
       "no": "61",
       "en": "The amount of sleep that adults need doesn't change as they get older.",
       "topic": "건강"
+    },
+    {
+      "no": "62",
+      "en": "It's a difficult one. If you start prohibiting some research, where do you draw the line?",
+      "topic": "과학"
     },
     {
       "no": "63",
@@ -215,6 +315,11 @@
       "no": "64",
       "en": "The problems that science solves far outweigh the problems that it may bring.",
       "topic": "과학"
+    },
+    {
+      "no": "65",
+      "en": "There is a lot of sugar in many fast foods.",
+      "topic": "건강"
     },
     {
       "no": "66",
@@ -297,9 +402,19 @@
       "topic": "학교"
     },
     {
+      "no": "82",
+      "en": "The media are to blame for excessive promotion of unhealthy food.",
+      "topic": "사회"
+    },
+    {
       "no": "83",
       "en": "The supplementary energy sources are needed after exertion.",
       "topic": "과학"
+    },
+    {
+      "no": "84",
+      "en": "He would use his brushes in new and interesting ways.",
+      "topic": "예술"
     },
     {
       "no": "85",
@@ -322,6 +437,11 @@
       "topic": "예술"
     },
     {
+      "no": "89",
+      "en": "Children, for example, are often exposed to negative role models due to peer pressure.",
+      "topic": "사회"
+    },
+    {
       "no": "90",
       "en": "People often conform during their leisure time as well as in their work hours.",
       "topic": "사회"
@@ -337,9 +457,19 @@
       "topic": "기타"
     },
     {
+      "no": "93",
+      "en": "Nowadays, persuasion is an important area of research within social psychology.",
+      "topic": "사회"
+    },
+    {
       "no": "94",
       "en": "He needs to talk to you about your industrial architecture class.",
       "topic": "학교"
+    },
+    {
+      "no": "95",
+      "en": "Often, the point of the advertisements is to raise awareness rather than give information.",
+      "topic": "경제"
     },
     {
       "no": "96",
@@ -367,8 +497,23 @@
       "topic": "건강"
     },
     {
+      "no": "101",
+      "en": "Having a shower before going to bed can help you sleep.",
+      "topic": "건강"
+    },
+    {
+      "no": "102",
+      "en": "It is normal to wake up several times each night.",
+      "topic": "건강"
+    },
+    {
       "no": "103",
       "en": "The hypothesis on black hole is rendered moot as the explanation of the explosion.",
+      "topic": "과학"
+    },
+    {
+      "no": "104",
+      "en": "There is disagreement among researchers about why we dream.",
       "topic": "과학"
     },
     {
@@ -379,6 +524,26 @@
     {
       "no": "106",
       "en": "It's my opinion that technological advances will begin to slow.",
+      "topic": "기술"
+    },
+    {
+      "no": "107",
+      "en": "Robots are able to communicate with humans around them.",
+      "topic": "기술"
+    },
+    {
+      "no": "108",
+      "en": "Most people feel lonely at some point in their lives.",
+      "topic": "사회"
+    },
+    {
+      "no": "109",
+      "en": "If little action is taken, we could experience energy shortages.",
+      "topic": "기타"
+    },
+    {
+      "no": "110",
+      "en": "One solution is a system of electric cars available for hire on demand.",
       "topic": "기술"
     },
     {
@@ -475,6 +640,11 @@
       "no": "129",
       "en": "I'm not sure really. Most research is beneficial but some can be unethical or even dangerous.",
       "topic": "과학"
+    },
+    {
+      "no": "130",
+      "en": "Email is quick and convenient.",
+      "topic": "기술"
     },
     {
       "no": "131",
@@ -647,6 +817,11 @@
       "topic": "학교"
     },
     {
+      "no": "165",
+      "en": "Larger numbers of city residents mean greater car ownership.",
+      "topic": "사회"
+    },
+    {
       "no": "166",
       "en": "Another example is an electric bus with an open bottom that allows cars to drive underneath.",
       "topic": "기술"
@@ -690,6 +865,11 @@
       "no": "174",
       "en": "Nowadays, boys and girls still often conform to gender stereotypes.",
       "topic": "사회"
+    },
+    {
+      "no": "175",
+      "en": "We know that sleep is essential for a normal life.",
+      "topic": "건강"
     },
     {
       "no": "176",
