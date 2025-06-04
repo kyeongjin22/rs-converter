@@ -17,14 +17,214 @@
       "topic": "기타"
     },
     {
+      "no": "72",
+      "en": "The lecture on child psychology has been postponed until Friday.",
+      "topic": "학교"
+    },
+    {
+      "no": "73",
+      "en": "You must establish a day and time with your tutor.",
+      "topic": "학교"
+    },
+    {
+      "no": "74",
+      "en": "There will be no extensions given for this project.",
+      "topic": "학교"
+    },
+    {
+      "no": "75",
+      "en": "My favorite place in my hometown is the main park located downtown.",
+      "topic": "기타"
+    },
+    {
+      "no": "76",
+      "en": "Students do better when they interact with others with completely different perspectives on things.",
+      "topic": "학교"
+    },
+    {
+      "no": "77",
+      "en": "The atmosphere is very important to our lives, and we cannot live without it.",
+      "topic": "과학"
+    },
+    {
+      "no": "78",
+      "en": "First of all, a lot of students don't even know how to type very fast.",
+      "topic": "기술"
+    },
+    {
+      "no": "79",
+      "en": "So what do the lungfish do in order to survive?",
+      "topic": "과학"
+    },
+    {
+      "no": "80",
+      "en": "A new cafe is opening in the library's basement.",
+      "topic": "기타"
+    },
+    {
+      "no": "81",
+      "en": "It is one of the oldest original parts of our university.",
+      "topic": "학교"
+    },
+    {
+      "no": "83",
+      "en": "The supplementary energy sources are needed after exertion.",
+      "topic": "과학"
+    },
+    {
+      "no": "85",
+      "en": "The artist is exhibiting in the national art gallery next year.",
+      "topic": "예술"
+    },
+    {
+      "no": "86",
+      "en": "A course in art will stimulate creativity.",
+      "topic": "예술"
+    },
+    {
+      "no": "87",
+      "en": "He has a good collection of art.",
+      "topic": "예술"
+    },
+    {
+      "no": "88",
+      "en": "The artist used an apartment as his studio.",
+      "topic": "예술"
+    },
+    {
+      "no": "91",
+      "en": "Conformity involves acting or thinking like other group members.",
+      "topic": "사회"
+    },
+    {
+      "no": "94",
+      "en": "He needs to talk to you about your industrial architecture class.",
+      "topic": "학교"
+    },
+    {
+      "no": "97",
+      "en": "Advertisements can occur in unusual places, even in the sea or in the sky.",
+      "topic": "경제"
+    },
+    {
+      "no": "98",
+      "en": "People see ads on the internet, on TV and in magazines.",
+      "topic": "경제"
+    },
+    {
+      "no": "99",
+      "en": "Elephants spend some of their sleeping time standing up and some of it lying down.",
+      "topic": "과학"
+    },
+    {
+      "no": "100",
+      "en": "Fatigue is a factor in a significant proportion of road accidents.",
+      "topic": "건강"
+    },
+    {
       "no": "103",
       "en": "The hypothesis on black hole is rendered moot as the explanation of the explosion.",
       "topic": "과학"
     },
     {
+      "no": "105",
+      "en": "Most adults need around eight hours of sleep every night.",
+      "topic": "건강"
+    },
+    {
+      "no": "106",
+      "en": "It's my opinion that technological advances will begin to slow.",
+      "topic": "기술"
+    },
+    {
+      "no": "111",
+      "en": "We could invest in effective public transport.",
+      "topic": "경제"
+    },
+    {
+      "no": "112",
+      "en": "New technology has a role to play in innovation.",
+      "topic": "기술"
+    },
+    {
+      "no": "113",
+      "en": "This number went up very slowly over several centuries.",
+      "topic": "기타"
+    },
+    {
+      "no": "114",
+      "en": "2000 years ago, there were few people in the world.",
+      "topic": "기타"
+    },
+    {
       "no": "115",
       "en": "Students are not allowed to speak when they are in the examination hall.",
       "topic": "학교"
+    },
+    {
+      "no": "116",
+      "en": "Copying from the internet threatens to damage your chances of success.",
+      "topic": "기술"
+    },
+    {
+      "no": "117",
+      "en": "To acquire a copy of the presentation, please go to my website.",
+      "topic": "기술"
+    },
+    {
+      "no": "118",
+      "en": "Please leave any questions related to the topic until the end.",
+      "topic": "학교"
+    },
+    {
+      "no": "119",
+      "en": "The students' union governs the use of the sports center.",
+      "topic": "학교"
+    },
+    {
+      "no": "121",
+      "en": "I hope I can take early retirement before I'm sixty.",
+      "topic": "기타"
+    },
+    {
+      "no": "122",
+      "en": "I'd like to start a family when I'm about thirty years old.",
+      "topic": "기타"
+    },
+    {
+      "no": "123",
+      "en": "Next year I'm planning to take a sabbatical so that I can travel to South America.",
+      "topic": "기타"
+    },
+    {
+      "no": "124",
+      "en": "Some teenagers in my school are not very well-behaved but fortunately all my friends are.",
+      "topic": "학교"
+    },
+    {
+      "no": "125",
+      "en": "Some people think that having a child is not a major responsibility but obviously it is.",
+      "topic": "사회"
+    },
+    {
+      "no": "126",
+      "en": "Not everyone wants to keep in touch with their old school friends when they leave school, but I would like to.",
+      "topic": "사회"
+    },
+    {
+      "no": "127",
+      "en": "Scientific developments often cause lots of problems so sometimes they're not worth it.",
+      "topic": "과학"
+    },
+    {
+      "no": "128",
+      "en": "Absolutely, I don't think anyone should try to interfere with nature.",
+      "topic": "과학"
+    },
+    {
+      "no": "129",
+      "en": "I'm not sure really. Most research is beneficial but some can be unethical or even dangerous.",
+      "topic": "과학"
     },
     {
       "no": "131",
@@ -77,6 +277,11 @@
       "topic": "기술"
     },
     {
+      "no": "141",
+      "en": "Politicians and marketing professionals have a good understanding of persuasion.",
+      "topic": "사회"
+    },
+    {
       "no": "142",
       "en": "Social robots can show different facial expressions and emotions.",
       "topic": "기술"
@@ -112,6 +317,11 @@
       "topic": "학교"
     },
     {
+      "no": "149",
+      "en": "Most people dislike advertisements but appear to be influenced by them anyway.",
+      "topic": "경제"
+    },
+    {
       "no": "150",
       "en": "The feeling of disgust is related to the stomach.",
       "topic": "건강"
@@ -144,6 +354,11 @@
     {
       "no": "156",
       "en": "Let's all meet at four, not three as we agreed before.",
+      "topic": "사회"
+    },
+    {
+      "no": "157",
+      "en": "Please sign your name here if you want to join the social club.",
       "topic": "사회"
     },
     {
@@ -182,8 +397,18 @@
       "topic": "학교"
     },
     {
+      "no": "166",
+      "en": "Another example is an electric bus with an open bottom that allows cars to drive underneath.",
+      "topic": "기술"
+    },
+    {
       "no": "167",
       "en": "It's important that humans dispose of their waste in appropriate ways.",
+      "topic": "사회"
+    },
+    {
+      "no": "168",
+      "en": "The study showed that people's moods can be affected by news and weather reports.",
       "topic": "사회"
     },
     {
@@ -237,6 +462,11 @@
       "topic": "기타"
     },
     {
+      "no": "180",
+      "en": "Would you like to come to the gallery with me?",
+      "topic": "예술"
+    },
+    {
       "no": "181",
       "en": "The school should be spending all of that money to construct a new science library.",
       "topic": "학교"
@@ -250,6 +480,11 @@
       "no": "183",
       "en": "New timetables will be posted on the student noticeboard.",
       "topic": "학교"
+    },
+    {
+      "no": "184",
+      "en": "Parents try to influence their children by using toys and other incentives.",
+      "topic": "사회"
     },
     {
       "no": "185",
@@ -277,6 +512,11 @@
       "topic": "기술"
     },
     {
+      "no": "190",
+      "en": "Surprisingly, some people actually enjoy watching advertisements on television.",
+      "topic": "경제"
+    },
+    {
       "no": "191",
       "en": "Next week's assignment will be similar to last week's.",
       "topic": "학교"
@@ -284,6 +524,11 @@
     {
       "no": "192",
       "en": "The gallery has shown many Chinese paintings.",
+      "topic": "예술"
+    },
+    {
+      "no": "193",
+      "en": "He studied for many years with an expert painter.",
       "topic": "예술"
     },
     {
@@ -310,6 +555,11 @@
       "no": "198",
       "en": "The meeting will take place in the main auditorium.",
       "topic": "기타"
+    },
+    {
+      "no": "199",
+      "en": "We should attempt to lower the amount of traffic on the roads.",
+      "topic": "사회"
     },
     {
       "no": "201",
