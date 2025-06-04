@@ -2,9 +2,149 @@
   "date": "2025-06-04",
   "data": [
     {
+      "no": "2",
+      "en": "He would yell if he was interrupted while painting.",
+      "topic": "예술"
+    },
+    {
+      "no": "3",
+      "en": "Please come to the next seminar properly prepared.",
+      "topic": "학교"
+    },
+    {
+      "no": "6",
+      "en": "The research looked at neighborhood cooperative schemes, such as community gardens.",
+      "topic": "사회"
+    },
+    {
+      "no": "7",
+      "en": "Adverts might use humor, drama or catchy slogans to grab people's attention.",
+      "topic": "기타"
+    },
+    {
+      "no": "10",
+      "en": "I really don't think so. Scientists should be free to do what they like.",
+      "topic": "과학"
+    },
+    {
+      "no": "11",
+      "en": "Advertisements are all around us wherever we go, whatever we do.",
+      "topic": "기타"
+    },
+    {
+      "no": "12",
+      "en": "Do you think new developments in science often cause more problems than they solve?",
+      "topic": "과학"
+    },
+    {
+      "no": "13",
+      "en": "The number of people in the world tripled during the last century.",
+      "topic": "사회"
+    },
+    {
+      "no": "14",
+      "en": "People get product information from advertisements, friends, family and product reviews.",
+      "topic": "경제"
+    },
+    {
+      "no": "15",
+      "en": "It's difficult for us to control our feelings of disgust.",
+      "topic": "기타"
+    },
+    {
+      "no": "16",
+      "en": "Sometimes ads promote a brand rather than a particular product.",
+      "topic": "경제"
+    },
+    {
+      "no": "17",
+      "en": "One theory suggests that dreams help with long-term memory.",
+      "topic": "과학"
+    },
+    {
+      "no": "21",
+      "en": "My parents didn't have a good education so they were determined that I would.",
+      "topic": "학교"
+    },
+    {
+      "no": "22",
+      "en": "Nine out of ten British people live in towns and cities.",
+      "topic": "사회"
+    },
+    {
+      "no": "23",
+      "en": "The university is working towards being more environmentally sustainable.",
+      "topic": "학교"
+    },
+    {
+      "no": "25",
+      "en": "They can tutor other students who need help for the preparation of the course and the test.",
+      "topic": "학교"
+    },
+    {
+      "no": "26",
+      "en": "The artist's early work was a good buy.",
+      "topic": "예술"
+    },
+    {
+      "no": "28",
+      "en": "He was an abstract expressionist painter.",
+      "topic": "예술"
+    },
+    {
+      "no": "29",
+      "en": "I can't afford to take a gap year unless I can get a job and save up.",
+      "topic": "기타"
+    },
+    {
+      "no": "30",
+      "en": "There are several reasons for population growth, such as better education.",
+      "topic": "사회"
+    },
+    {
+      "no": "31",
+      "en": "Marketing involves many activities, including doing research, developing products and promoting them.",
+      "topic": "경제"
+    },
+    {
+      "no": "32",
+      "en": "The financial report for the last quarter will be available this afternoon.",
+      "topic": "경제"
+    },
+    {
+      "no": "33",
+      "en": "Extra seminars will be scheduled to assist you with revision.",
+      "topic": "학교"
+    },
+    {
+      "no": "34",
+      "en": "But overall, surely scientific development is a positive thing.",
+      "topic": "과학"
+    },
+    {
       "no": "35",
       "en": "You should enquire about the direct deposit.",
       "topic": "경제"
+    },
+    {
+      "no": "36",
+      "en": "The impact of climate change could result in floods.",
+      "topic": "과학"
+    },
+    {
+      "no": "37",
+      "en": "Cycle lanes make it safer to travel by bike.",
+      "topic": "사회"
+    },
+    {
+      "no": "40",
+      "en": "Factors such as cost and function influence the design of a bridge.",
+      "topic": "기술"
+    },
+    {
+      "no": "41",
+      "en": "Cities need to invest more money in road systems.",
+      "topic": "사회"
     },
     {
       "no": "43",
@@ -12,9 +152,99 @@
       "topic": "기타"
     },
     {
+      "no": "45",
+      "en": "Public transport is the best way to travel to university.",
+      "topic": "학교"
+    },
+    {
+      "no": "46",
+      "en": "Even during leisure time you can hear attempts to persuade or influence.",
+      "topic": "기타"
+    },
+    {
+      "no": "48",
+      "en": "Street lighting allows people to walk home safely at night.",
+      "topic": "사회"
+    },
+    {
       "no": "49",
       "en": "But we have confirmed the dates and planned the optional extra visits.",
       "topic": "기타"
+    },
+    {
+      "no": "51",
+      "en": "In most cases, quality products don't need much advertising.",
+      "topic": "경제"
+    },
+    {
+      "no": "52",
+      "en": "During some stages of sleep, your eyes move rapidly behind your closed eyelids.",
+      "topic": "과학"
+    },
+    {
+      "no": "53",
+      "en": "A new report outlines ways in which cities should address transport issues.",
+      "topic": "사회"
+    },
+    {
+      "no": "55",
+      "en": "Our exam results are consistently high in all subjects.",
+      "topic": "학교"
+    },
+    {
+      "no": "56",
+      "en": "Some people suggest a levy on junk food to discourage its consumption.",
+      "topic": "건강"
+    },
+    {
+      "no": "57",
+      "en": "University students pay a lot of money for their education.",
+      "topic": "학교"
+    },
+    {
+      "no": "61",
+      "en": "The amount of sleep that adults need doesn't change as they get older.",
+      "topic": "건강"
+    },
+    {
+      "no": "63",
+      "en": "It's important for people to connect to each other.",
+      "topic": "사회"
+    },
+    {
+      "no": "64",
+      "en": "The problems that science solves far outweigh the problems that it may bring.",
+      "topic": "과학"
+    },
+    {
+      "no": "66",
+      "en": "It is important that you work as a team on this project.",
+      "topic": "기타"
+    },
+    {
+      "no": "67",
+      "en": "Detailed analysis of population growth has revealed some alarming predictions.",
+      "topic": "사회"
+    },
+    {
+      "no": "68",
+      "en": "Students who wish to apply for an extension should approach their tutors.",
+      "topic": "학교"
+    },
+    {
+      "no": "69",
+      "en": "Visual aids can make presentations clearer and more interesting.",
+      "topic": "기타"
+    },
+    {
+      "no": "70",
+      "en": "Unlike applied arts, fine arts do not serve a practical function.",
+      "topic": "예술"
+    },
+    {
+      "no": "71",
+      "en": "There is plenty of cheap accommodation off-campus.",
+      "topic": "학교"
     },
     {
       "no": "72",
@@ -92,14 +322,29 @@
       "topic": "예술"
     },
     {
+      "no": "90",
+      "en": "People often conform during their leisure time as well as in their work hours.",
+      "topic": "사회"
+    },
+    {
       "no": "91",
       "en": "Conformity involves acting or thinking like other group members.",
       "topic": "사회"
     },
     {
+      "no": "92",
+      "en": "An understanding of persuasive techniques should help you recognise their use.",
+      "topic": "기타"
+    },
+    {
       "no": "94",
       "en": "He needs to talk to you about your industrial architecture class.",
       "topic": "학교"
+    },
+    {
+      "no": "96",
+      "en": "Generally, consumers trust friends more than commercial information, such as advertisements.",
+      "topic": "경제"
     },
     {
       "no": "97",
@@ -180,6 +425,11 @@
       "no": "119",
       "en": "The students' union governs the use of the sports center.",
       "topic": "학교"
+    },
+    {
+      "no": "120",
+      "en": "Anyone who feels ill should visit our medical center.",
+      "topic": "건강"
     },
     {
       "no": "121",
